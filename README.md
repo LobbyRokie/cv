@@ -1,4 +1,15 @@
-Roger Chen
+#Roger Chen
+
+BUSINESS ANALYST * CERTIFIED DATA SCIENCE ASSOCIATE * INFORMATION SYSTEMS MAJOR & MATH MINOR
+
+Email   [LinkedIn](https://www.linkedin.com/in/rogerchen0418/)
+
+##PROFESSIONAL TOOL BOX
+**Data Analytics:**  Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, Excel/VBA Macro, XLMiner.
+**Programming:** 	   SQL, R, Python, Java, C++, VBScript, Access/VBA Macro, XML, JSON.
+**Other:** 		       Microsoft Office, Visio, Visual Studio, Salesforce, SAP, Oracle PeopleSoft, Jira, QuickBooks.
+
+
 
 ## Welcome to GitHub Pages
 
