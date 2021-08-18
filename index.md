@@ -1,13 +1,17 @@
 # Roger Chen
 
-BUSINESS ANALYST * CERTIFIED DATA SCIENCE ASSOCIATE * INFORMATION SYSTEMS MAJOR & MATH MINOR
+BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS MAJOR & MATH MINOR
 
-Email   [LinkedIn](https://www.linkedin.com/in/rogerchen0418/)
+[github](https://github.com/LobbyRokie)  /  [LinkedIn](https://www.linkedin.com/in/rogerchen0418/)
 
 ## PROFESSIONAL TOOL BOX
-**Data Analytics:**  Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, Excel/VBA Macro, XLMiner.
-**Programming:** 	   SQL, R, Python, Java, C++, VBScript, Access/VBA Macro, XML, JSON.
+**Data Analytics:**  Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, Excel/VBA Macro, XLMiner.\
+**Programming:** 	   SQL, R, Python, Java, C++, VBScript, Access/VBA Macro, XML, JSON.\
 **Other:** 		       Microsoft Office, Visio, Visual Studio, Salesforce, SAP, Oracle PeopleSoft, Jira, QuickBooks.
+
+## EXPERIENCE
+**SENIOR BUSINESS SYSTEMS ANALYST** @ [UCSB](https://www.ucsb.edu/) 
+
 
 
 
