@@ -4,14 +4,52 @@ BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS MAJOR 
 
 [github](https://github.com/LobbyRokie)  /  [LinkedIn](https://www.linkedin.com/in/rogerchen0418/)
 
-## PROFESSIONAL TOOL BOX
+## 🛠️ PROFESSIONAL TOOL BOX
 **Data Analytics:**    Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, Excel/VBA Macro, XLMiner.\
 **Programming:** 	     SQL, R, Python, Java, C++, VBScript, Access/VBA Macro, XML, JSON.\
 **Other:** 		         Microsoft Office, Visio, Visual Studio, Salesforce, SAP, Oracle PeopleSoft, Jira, QuickBooks.
 
-## EXPERIENCE
-**SENIOR BUSINESS SYSTEMS ANALYST** @ [UCSB](https://www.ucsb.edu/) **Business & Financial Planning**
+## 💼 EXPERIENCE
+**SENIOR BUSINESS SYSTEMS ANALYST** @ [UC Santa Barbara](https://www.ucsb.edu/) Business & Financial Planning\
+_(Sep 2019 - Present)_
 
+**PROGRAMMER ANALYST** @ [Nortridge Software](https://www.nortridge.com/) Technical Consulting Team\
+_(Jul 2017 - Jul 2019)_
+
+**BUSINESS & TECHNOLOGY ANALYST** @ [AXOS Bank](https://www.axosbank.com/) Business Analytics Team\
+_(Sep 2016 - Jul 2017)_
+
+**ACCOUNTING SUMMER INTERN** @ [Big Brothers Big Sisters](https://www.bbbs.org/)\
+_(Jul 2014 - Nov 2014)_
+
+
+**CASE CENTER MANAGER** @ [InnoCSR](https://www.innocsr.com/)\
+_(May 2013 - Aug 2013)_
+
+
+**FINANCIAL SERVICE ASSOCIATE** @ [World Financial Group](https://www.worldfinancialgroup.com/)\
+_(Dec 2011 - Aug 2012)_
+
+
+
+
+## 🏫 EDUCATION
+#### [San Diego State University](https://www.sdsu.edu/)
+Master of Science in **INFORMATION SYSTEMS** - _Class of 2016_\
+(Specialization in **BUSINESS ANALYTICS**)
+
+#### [University of California, San Diego](https://www.ucsd.edu/)
+Bachelor of Science in **MANAGEMENT SCIENCE** - _Class of 2011_\
+(Minor in **MATHEMATICS**)
+
+
+
+**Master of Science in Information Systems** (Specialization in Business Analytics) @ [San Diego State University](https://www.sdsu.edu/) 2016 \
+**Bachelor of Science in Management Science, Mathematics Minor** @ [University of California, San Diego](https://www.ucsd.edu/) 2011 \
+
+
+
+## 📂 ACADEMIC PROJECTS 
 
 
 
