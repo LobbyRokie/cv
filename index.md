@@ -71,6 +71,29 @@ Bachelor of Science in **MANAGEMENT SCIENCE** - _Class of 2011_ <br>
 
 ## 📂 ACADEMIC PROJECTS 
 
+#### [Multi-level Analysis with Random and Mixed Effects using R - Academic Success in Math](https://github.com/LobbyRokie/cv/blob/gh-pages/Multi-level%20Analysis%20with%20Random%20and%20Mixed%20Effects%20using%20R%20-%20Academic%20Success%20in%20Math.pdf) _(2015)_ 
+* Methodology:
+  Created a linear mixed model that clustered the data into three levels (Regions, Schools, and Students) and used the step-up strategy to identify the school-level and student-level factors that contributed to academic success while testing random effects.
+
+* Results:
+  The findings indicated that the relationship between students’ mathematics achievement and socioeconomic status was not the same for the students’ parents with different educational background; there were significant interactions between students’ minority status and school-level covariates; the difference in math performance between public and private school was statistically insignificant.
+
+
+#### [Logistic Regression & Decision Tree - Credit Risk and Interest Revenue Assessment using FICO Analytic Cloud](https://github.com/LobbyRokie/cv/blob/gh-pages/Logistic%20Regression%20and%20Decision%20Tree%20using%20FICO%20Analytic%20Cloud%20-%20Credit%20Risk%20and%20Interest%20Revenue%20Assessment.pdf) _(2015)_ <br>
+* Developed HELOC Approval Model that improved the credit grantor’s current model’s 〖LR〗^2by 18.7% and ROC by 3%. The new Decision Tree Strategy rejected 35% more applicants who would have defaulted by only sacrificing 12% anticipated revenue for risk-averse creditor.
+
+
+
+#### [Multiple Linear Regression and Predictive Data Modeling - Boston Housing Prices](https://github.com/LobbyRokie/cv/blob/gh-pages/Multiple%20Linear%20Regression%20and%20Predictive%20Data%20Modeling%20-%20Boston%20Housing%20Prices.pdf) _(2015)_ <br>
+* Methodology: <br>
+  1. Partitioned the data into training and validation sets with 60/40 ratio to avoid overfitting. <br>
+  2. Reduced the number of predictors that have high correlation and low coefficient to avoid multicollinearity. <br>
+  3. Chose the top three models by running on the training set and comparing Cp, Adjusted R^2, SSE, RMSE, Average Error, and lift chart. <br>
+
+* Results: <br>
+  The final best model yielded a SSE of 8170 and a RMSE of 5.18 on the training data and 3698 and 4.28 on the validation data. <br>
+
+#### [Cluster Analysis - Pharmaceutical Industry & Breakfast Cereals] _(2015)_ <br>
 
 
 
