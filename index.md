@@ -71,20 +71,20 @@ Bachelor of Science in **Management Science** - _Class of 2011_ <br>
 
 ## 📂 ACADEMIC PROJECTS 
 
-#### [Multi-level Analysis with Random and Mixed Effects using R - Academic Success in Math](https://github.com/LobbyRokie/cv/blob/gh-pages/Multi-level%20Analysis%20with%20Random%20and%20Mixed%20Effects%20using%20R%20-%20Academic%20Success%20in%20Math.pdf) _(2015)_ 
-* Methodology:
+#### [Multi-level Analysis with Random and Mixed Effects using R - Academic Success in Math](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/Data%20Analysis%20Projects/Multi-level%20Analysis%20with%20Random%20and%20Mixed%20Effects%20using%20R%20-%20Academic%20Success%20in%20Math.pdf) _(2015)_ 
+* Methodology: <br>
   Created a linear mixed model that clustered the data into three levels (Regions, Schools, and Students) and used the step-up strategy to identify the school-level and student-level factors that contributed to academic success while testing random effects.
 
 * Results: <br>
   The findings indicated that the relationship between students’ mathematics achievement and socioeconomic status was not the same for the students’ parents with different educational background; there were significant interactions between students’ minority status and school-level covariates; the difference in math performance between public and private school was statistically insignificant.
 
 
-#### [Logistic Regression & Decision Tree - Credit Risk and Interest Revenue Assessment using FICO Analytic Cloud](https://github.com/LobbyRokie/cv/blob/gh-pages/Logistic%20Regression%20and%20Decision%20Tree%20using%20FICO%20Analytic%20Cloud%20-%20Credit%20Risk%20and%20Interest%20Revenue%20Assessment.pdf) _(2015)_ <br>
-* Developed HELOC Approval Model that improved the credit grantor’s current model’s〖LR〗^2 by 18.7% and ROC by 3%. The new Decision Tree Strategy rejected 35% more applicants who would have defaulted by only sacrificing 12% anticipated revenue for risk-averse creditor.
+#### [Logistic Regression & Decision Tree - Credit Risk and Interest Revenue Assessment using FICO Analytic Cloud](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/Data%20Analysis%20Projects/Logistic%20Regression%20and%20Decision%20Tree%20using%20FICO%20Analytic%20Cloud%20-%20Credit%20Risk%20and%20Interest%20Revenue%20Assessment.pdf) _(2015)_ <br>
+* Developed HELOC Approval Model that improved the credit grantor’s current model’s LR^2 by 18.7% and ROC by 3%. The new Decision Tree Strategy rejected 35% more applicants who would have defaulted by only sacrificing 12% anticipated revenue for risk-averse creditor.
 
 
 
-#### [Multiple Linear Regression and Predictive Data Modeling - Boston Housing Prices](https://github.com/LobbyRokie/cv/blob/gh-pages/Multiple%20Linear%20Regression%20and%20Predictive%20Data%20Modeling%20-%20Boston%20Housing%20Prices.pdf) _(2015)_ <br>
+#### [Multiple Linear Regression and Predictive Data Modeling - Boston Housing Prices](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/Data%20Analysis%20Projects/Multiple%20Linear%20Regression%20and%20Predictive%20Data%20Modeling%20-%20Boston%20Housing%20Prices.pdf) _(2015)_ <br>
 * Methodology: <br>
   1. Partitioned the data into training and validation sets with 60/40 ratio to avoid overfitting. <br>
   2. Reduced the number of predictors that have high correlation and low coefficient to avoid multicollinearity. <br>
@@ -93,7 +93,7 @@ Bachelor of Science in **Management Science** - _Class of 2011_ <br>
 * Results: <br>
   The final best model yielded a SSE of 8170 and a RMSE of 5.18 on the training data and 3698 and 4.28 on the validation data. <br>
 
-#### Statistical Analysis with Linear Regression Model - Treatment Effects on Plasma Epinephrine (PE) Concentration using R
+#### Statistical Analysis with Linear Regression Model - Treatment Effects on Plasma Epinephrine (PE) Concentration using R _(2015)_ <br>
 * Methodology: <br>
   1. Compared the means and variances for two factors using classical effects ANOVA model for Anesthesias and Dogs. <br>
   2. Conducted pairwise multiple comparisons using the Bonferroni correction based on the results from part (a). <br>
@@ -103,27 +103,35 @@ Bachelor of Science in **Management Science** - _Class of 2011_ <br>
   Found that there was a significant Anesthesia effect and not a significant Dog effect on PE Concentration using α = 0.05. It appeared that Cyclopropane has the highest PE Concentration and the largest variance while Isoflurane has the lowest mean and the smallest variance. The plots indicated the errors do not have a constant variance and deviations from the tails of the residuals distribution. <br>
 
 
-#### [Cluster Analysis - Pharmaceutical Industry & Breakfast Cereals](https://github.com/LobbyRokie/cv/blob/gh-pages/Cluster%20Analysis%20-%20Pharmaceutical%20Industry%20%26%20Breakfast%20Cereals.pdf) _(2015)_ <br>
-
-#### [Quality Assurance and Lean Six Sigma - Mesa Products] () (2015)_ <br>
-  Conducted quality analysis that emphasized continuous improvement in stakeholders, products, and processes based on Baldrige Quality Management Process, ISO9000 standards, and application of PDCA, Muda, Kaizen, SIPOC, Lean Six Sigma, and statistical analysis.
+#### [Cluster Analysis - Pharmaceutical Industry & Breakfast Cereals](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/Data%20Analysis%20Projects/Cluster%20Analysis%20-%20Pharmaceutical%20Industry%20%26%20Breakfast%20Cereals.pdf) _(2015)_ <br>
+* The project involved hierarchical clustering with Euclidean distance being used and the variables values being normalized to their respective z-scores. The Ward's method was chosen over complete linkage, single linkage, and centroid distance since it made the most distinct groups. 
 
 
-#### [] (2015)_ <br>
+#### [Quality Assurance and Lean Six Sigma - Mesa Products](https://github.com/LobbyRokie/cv/tree/gh-pages/Academic%20Projects/Quality%20Control%20Six%20Sigma%20Projects) _(2015)_ <br>
+* The project conducted quality analysis of the product that emphasized continuous improvement in stakeholders, products, and processes based on Baldrige Quality Management Process, ISO9000 standards, and application of PDCA, Muda, Kaizen, SIPOC, Lean Six Sigma, and statistical analysis.
 
 
-#### [System Analysis & Design - Home Inventory Management Systems (HIMS)]  _(2014)_ <br>
-The Home Inventory Management System (HIMS) provides customers the ability to document their assets and take action if one is damaged, stolen, not working correctly or needs to be returned through a dynamic and responsive website paired with a mobile application for capturing home inventory pictures and details. Both the web and mobile application allow the owners to browse inventory, finalize the details of certain possessions and initiate insurance and warranty claims. Other functionality will include the ability to find a nearby location for the purchase of a replacement item or return of an item. <br>
+#### [System Analysis & Design - Home Inventory Management Systems (HIMS)](https://github.com/LobbyRokie/cv/tree/gh-pages/Academic%20Projects/System%20Analysis%20%26%20Design%20Projects)  _(2014)_ <br>
+* The Home Inventory Management System (HIMS) provides customers the ability to document their assets and take action if one is damaged, stolen, not working correctly or needs to be returned through a dynamic and responsive website paired with a mobile application for capturing home inventory pictures and details. Both the web and mobile application allow the owners to browse inventory, finalize the details of certain possessions and initiate insurance and warranty claims. Other functionality will include the ability to find a nearby location for the purchase of a replacement item or return of an item. <br>
 The project is designed with SOW, Use Cases, Functional/Business Requirements, User Needs, DFD, ERD, System Development Life Cycle (SDLC), and Agile Development. The following includes some documentations of the project: 
-* [Statement of Work]
-* [System Requirements Specification]
-* [Software Development Plan]
-* [System Design Specification]
+  * [Statement of Work](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/System%20Analysis%20%26%20Design%20Projects/System%20Analysis%20%26%20Design%20SOW%20-%20HIMS.pdf)
+  * [System Requirements Specification](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/System%20Analysis%20%26%20Design%20Projects/System%20Analysis%20%26%20Design%20SRS%20-%20HIMS.pdf)
+  * [Software Development Plan](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/System%20Analysis%20%26%20Design%20Projects/System%20Analysis%20%26%20Design%20SDP%20-%20HIMS.pdf)
+  * [System Design Specification](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/System%20Analysis%20%26%20Design%20Projects/System%20Analysis%20%26%20Design%20SDS%20-%20HIMS.pdf)
+
+#### [Financial Analysis - Internet Information Provider Industry (Google, FB, LinkedIn, Yahoo, Yelp](https://github.com/LobbyRokie/cv/tree/gh-pages/Academic%20Projects/Financial%20Analysis%20Projects)  _(2014)_ <br>
+* The project includes individual financial analysis and SWOT analysis for Google, FaceBook, LinkedIn, Yahoo, and Yelp and a consolidated comparison among the five companies. 
 
 
 
+#### [Marketing Plan - Aztec Power](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/Other%20Projects/Marketing%20Plan%20-%20Aztec%20Power.pdf) _(2016)_ <br>
+* Aztec Power (AP) is an on-campus miniature retailer of nutritional supplements, which offers vitamins, minerals, herbal supplements, sports nutrition products and diet and energy products. The projects includes:
+  * Identifying possible promotion opportunities to create brand awareness and brand loyalty both in the short-term and long-term. Using Internet and SDSU marketing channels to build on-campus promotions.
+  * Drawing beneficial sponsorships from possible strategic partners and increasing our strategic alliances through cross-promotions. 
+  * Identifying Aztec Power strengths, weaknesses, opportunities, and threats (SWOT Analysis), and analyzing both external and internal factors which can potentially affect our business.
+  * Estimating cost and revenues and demonstrating the lucrativeness of the business model.
 
-#### [Marketing Plan - Aztec Power]() <br>
+
 
 
 
