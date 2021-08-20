@@ -80,7 +80,7 @@ Bachelor of Science in **MANAGEMENT SCIENCE** - _Class of 2011_ <br>
 
 
 #### [Logistic Regression & Decision Tree - Credit Risk and Interest Revenue Assessment using FICO Analytic Cloud](https://github.com/LobbyRokie/cv/blob/gh-pages/Logistic%20Regression%20and%20Decision%20Tree%20using%20FICO%20Analytic%20Cloud%20-%20Credit%20Risk%20and%20Interest%20Revenue%20Assessment.pdf) _(2015)_ <br>
-* Developed HELOC Approval Model that improved the credit grantor’s current model’s 〖LR〗^2by 18.7% and ROC by 3%. The new Decision Tree Strategy rejected 35% more applicants who would have defaulted by only sacrificing 12% anticipated revenue for risk-averse creditor.
+* Developed HELOC Approval Model that improved the credit grantor’s current model’s〖LR〗^2 by 18.7% and ROC by 3%. The new Decision Tree Strategy rejected 35% more applicants who would have defaulted by only sacrificing 12% anticipated revenue for risk-averse creditor.
 
 
 
@@ -93,7 +93,7 @@ Bachelor of Science in **MANAGEMENT SCIENCE** - _Class of 2011_ <br>
 * Results: <br>
   The final best model yielded a SSE of 8170 and a RMSE of 5.18 on the training data and 3698 and 4.28 on the validation data. <br>
 
-#### [Cluster Analysis - Pharmaceutical Industry & Breakfast Cereals] _(2015)_ <br>
+#### [Cluster Analysis - Pharmaceutical Industry & Breakfast Cereals](https://github.com/LobbyRokie/cv/blob/gh-pages/Cluster%20Analysis%20-%20Pharmaceutical%20Industry%20%26%20Breakfast%20Cereals.pdf) _(2015)_ <br>
 
 
 
