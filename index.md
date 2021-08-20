@@ -57,11 +57,11 @@ _(Dec 2011 - Aug 2012)_
 
 
 ## 🏫 EDUCATION
-#### [San Diego State University](https://www.sdsu.edu/)
+**[San Diego State University](https://www.sdsu.edu/)** <br>
 Master of Science in **INFORMATION SYSTEMS** - _Class of 2016_ <br>
 (Specialization in **BUSINESS ANALYTICS**)
 
-#### [University of California, San Diego](https://www.ucsd.edu/)
+**[University of California, San Diego](https://www.ucsd.edu/)** <br>
 Bachelor of Science in **MANAGEMENT SCIENCE** - _Class of 2011_ <br>
 (Minor in **MATHEMATICS**)
 <br><br>
