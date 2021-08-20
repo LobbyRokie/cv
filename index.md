@@ -11,7 +11,7 @@ BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS MAJOR 
 <br><br>
 
 ## 💼 EXPERIENCE
-**SENIOR BUSINESS SYSTEMS ANALYST** @ [UC Santa Barbara](https://www.ucsb.edu/) <br>
+**SENIOR BUSINESS SYSTEMS ANALYST @ [UC Santa Barbara](https://www.ucsb.edu/)** <br>
 Business & Financial Planning Team _(Sep 2019 - Present)_
 * **Business Intelligence:** Revolutionized and automated the reporting process in the DFSS department by establishing a new robust, sustainable, and scalable reporting system that served 5 business units and 30+ end users consist of AVC, CFO, directors, managers, and analysts across HR, finance, operations, and admin, and reduced report preparation time from 80 to 5 hours per month with real-time reporting and on-demand services.
 * **Power BI:** Built and maintained Power BI services that included 20+ workspaces and apps supported extensively with Data Modeling, Dataflows, Gateway, Power Query M Language, JSON, DAX, Calculated Measures, Drillthrough, Direct Query, Role Level Security, and Dynamic Reporting.
@@ -19,7 +19,7 @@ Business & Financial Planning Team _(Sep 2019 - Present)_
 * **SDLC:** Performed requirement analysis, planning, design, testing, implementation, and maintenance of the FIDO system (in-house web services using SOAP, REST, WSDL) that validated and transferred data between DFSS and UCSB systems across DEV, TST, UAT, and PRD environments. 
 <br><br>
 
-**PROGRAMMER ANALYST** @ [Nortridge Software](https://www.nortridge.com/) <br>
+**PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
 Technical Consulting Team _(Jul 2017 - Jul 2019)_
 * **Process Improvement:** Created in-depth analysis and visualization to interpret consumer behavior, establish data-driven evidence, and provide strategic recommendation to strive for improved customer satisfaction, operational efficiency, and higher ROI.
 * **System Implementation:** Conducted system analysis, process documentation, and ETL process to integrate a new CRM system that ultimately served 18% more customers, reduced the average duration of support tickets by 13%, and increased customer satisfaction by 15%.
@@ -28,7 +28,7 @@ Technical Consulting Team _(Jul 2017 - Jul 2019)_
 * **Training/Consultation:** Provided systems oriented training and produced training materials to internal analysts and end users.
 <br><br>
 
-**BUSINESS & TECHNOLOGY ANALYST** @ [AXOS Bank](https://www.axosbank.com/) <br>
+**BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
 Business Analytics Team _(Sep 2016 - Jul 2017)_
 * **Data Analysis:** Helped the team to extract, transform, and load data from various systems across ERP, CRM, and internal systems to build reports and dashboards that generated visibilities and insights in business performance via data analytics, ad-hoc reporting, KPIs, and business metrics.
 * **Business Intelligence:** Designed incentive compensation system and built automation dashboards to populate real-time commission data to replace manual calculation using spreadsheets for multiple sales teams that reduced overall labor from 30 to 5 hours per month.
@@ -37,19 +37,19 @@ Business Analytics Team _(Sep 2016 - Jul 2017)_
 * **Budget Modeling:** Created FY18 budget model that factored data over the past 5 years to strive for <10% var. between Actual and Budget.
 <br><br>
 
-**ACCOUNTING SUMMER INTERN** @ [Big Brothers Big Sisters](https://www.bbbs.org/) <br>
+**ACCOUNTING SUMMER INTERN @ [Big Brothers Big Sisters](https://www.bbbs.org/)** <br>
 _(Jul 2014 - Nov 2014)_
 * **General Accounting:** Assisted the Director of Finance and performed functions with A/P, A/R, reconciliation, budgeting, and forecasting.
 <br><br>
 
-**CASE CENTER MANAGER** @ [InnoCSR](https://www.innocsr.com/) <br>
+**CASE CENTER MANAGER @ [InnoCSR](https://www.innocsr.com/)** <br>
 _(May 2013 - Aug 2013)_
 * **CSR Support:** Promoted Corporate Social Responsibility and provided education materials to help companies in China implement CSR practices.
 * **Case Management:** Increased the internal knowledge database by 60% in case studies and doubled the size of the case analyst team.
 * **Web Management:** Increased traffic by 30% by upgrading the case center website with a more user-friendly interface using WordPress.
 <br><br>
 
-**FINANCIAL SERVICE ASSOCIATE** @ [World Financial Group](https://www.worldfinancialgroup.com/) <br>
+**FINANCIAL SERVICE ASSOCIATE @ [World Financial Group](https://www.worldfinancialgroup.com/)** <br>
 _(Dec 2011 - Aug 2012)_
 * **Financial Investment:** Helped clients develop diversified financial portfolios to reduce overall risks while striving for >7.5% ROI.
 * **Financial Education:** Assisted manager in conducting periodic educational seminars on financial management for clients and prospects.
@@ -57,13 +57,13 @@ _(Dec 2011 - Aug 2012)_
 
 
 ## 🏫 EDUCATION
-**[San Diego State University](https://www.sdsu.edu/)** <br>
-Master of Science in **INFORMATION SYSTEMS** - _Class of 2016_ <br>
-(Specialization in **BUSINESS ANALYTICS**)
+**[SAN DIEGO STATE UNIVERSITY](https://www.sdsu.edu/)**\
+Master of Science in **Information Systems** - _Class of 2016_ <br>
+(Specialization in **Business Analytics**)
 
-**[University of California, San Diego](https://www.ucsd.edu/)** <br>
-Bachelor of Science in **MANAGEMENT SCIENCE** - _Class of 2011_ <br>
-(Minor in **MATHEMATICS**)
+**[UNIVERSITY OF CALIFORNIA, SAN DIEGO](https://www.ucsd.edu/)**\
+Bachelor of Science in **Management Science** - _Class of 2011_ <br>
+(Minor in **Mathematics**)
 <br><br>
 
 
@@ -75,7 +75,7 @@ Bachelor of Science in **MANAGEMENT SCIENCE** - _Class of 2011_ <br>
 * Methodology:
   Created a linear mixed model that clustered the data into three levels (Regions, Schools, and Students) and used the step-up strategy to identify the school-level and student-level factors that contributed to academic success while testing random effects.
 
-* Results:
+* Results: <br>
   The findings indicated that the relationship between students’ mathematics achievement and socioeconomic status was not the same for the students’ parents with different educational background; there were significant interactions between students’ minority status and school-level covariates; the difference in math performance between public and private school was statistically insignificant.
 
 
@@ -93,7 +93,38 @@ Bachelor of Science in **MANAGEMENT SCIENCE** - _Class of 2011_ <br>
 * Results: <br>
   The final best model yielded a SSE of 8170 and a RMSE of 5.18 on the training data and 3698 and 4.28 on the validation data. <br>
 
+#### Statistical Analysis with Linear Regression Model - Treatment Effects on Plasma Epinephrine (PE) Concentration using R
+* Methodology: <br>
+  1. Compared the means and variances for two factors using classical effects ANOVA model for Anesthesias and Dogs. <br>
+  2. Conducted pairwise multiple comparisons using the Bonferroni correction based on the results from part (a). <br>
+  3. Checked distributional assumption for the data set using Residuals vs. Fitted, Q-Q plot, Scale-Location, and Residuals vs. Factor Levels. <br>
+
+* Results: <br>
+  Found that there was a significant Anesthesia effect and not a significant Dog effect on PE Concentration using α = 0.05. It appeared that Cyclopropane has the highest PE Concentration and the largest variance while Isoflurane has the lowest mean and the smallest variance. The plots indicated the errors do not have a constant variance and deviations from the tails of the residuals distribution. <br>
+
+
 #### [Cluster Analysis - Pharmaceutical Industry & Breakfast Cereals](https://github.com/LobbyRokie/cv/blob/gh-pages/Cluster%20Analysis%20-%20Pharmaceutical%20Industry%20%26%20Breakfast%20Cereals.pdf) _(2015)_ <br>
+
+#### [Quality Assurance and Lean Six Sigma - Mesa Products] () (2015)_ <br>
+  Conducted quality analysis that emphasized continuous improvement in stakeholders, products, and processes based on Baldrige Quality Management Process, ISO9000 standards, and application of PDCA, Muda, Kaizen, SIPOC, Lean Six Sigma, and statistical analysis.
+
+
+#### [] (2015)_ <br>
+
+
+#### [System Analysis & Design - Home Inventory Management Systems (HIMS)]  _(2014)_ <br>
+The Home Inventory Management System (HIMS) provides customers the ability to document their assets and take action if one is damaged, stolen, not working correctly or needs to be returned through a dynamic and responsive website paired with a mobile application for capturing home inventory pictures and details. Both the web and mobile application allow the owners to browse inventory, finalize the details of certain possessions and initiate insurance and warranty claims. Other functionality will include the ability to find a nearby location for the purchase of a replacement item or return of an item. <br>
+The project is designed with SOW, Use Cases, Functional/Business Requirements, User Needs, DFD, ERD, System Development Life Cycle (SDLC), and Agile Development. The following includes some documentations of the project: 
+* [Statement of Work]
+* [System Requirements Specification]
+* [Software Development Plan]
+* [System Design Specification]
+
+
+
+
+#### [Marketing Plan - Aztec Power]() <br>
+
 
 
 
