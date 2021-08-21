@@ -4,10 +4,10 @@ BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS MAJOR 
 
 [github](https://github.com/LobbyRokie)  /  [LinkedIn](https://www.linkedin.com/in/rogerchen0418/)
 
-## 🛠️ PROFESSIONAL TOOL BOX
-**Data Analytics:**    Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, Excel/VBA Macro, XLMiner. <br>
-**Programming:** 	     SQL, R, Python, Java, C++, VBScript, Access/VBA Macro, XML, JSON. <br>
-**Other:** 		         Microsoft Office, Visio, Visual Studio, Salesforce, SAP, Oracle PeopleSoft, Jira, QuickBooks.
+## 🛠️ TOOL BOX
+**Data Analytics:**    Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
+**Programming:** 	     SQL, R, Python, Java, C++, VBScript, MS Access/VBA Macro, XML, JSON. <br>
+**Other:** 		         Salesforce, SAP, Oracle PeopleSoft, Jira, QuickBooks, Microsoft Office, Visio, Visual Studio.
 <br><br>
 
 ## 💼 EXPERIENCE
@@ -138,7 +138,7 @@ The project is designed with SOW, Use Cases, Functional/Business Requirements, U
 
 
 
-
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LobbyRokie/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -176,3 +176,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
+
