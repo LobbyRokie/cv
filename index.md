@@ -2,6 +2,13 @@
 
 BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS MAJOR & MATH MINOR
 
+[<img src="images/Gmail icon.png" width="20">](mailto:rogerchen0418@gmail.com?subject=[GitHub]%20Hello%20From%20GitHub!) &nbsp; 
+[<img src="images/GitHub icon.png" width="20">](https://github.com/LobbyRokie) &nbsp; 
+[<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/)
+
+
+
+
 [github](https://github.com/LobbyRokie)  /  [LinkedIn](https://www.linkedin.com/in/rogerchen0418/)
 
 ## 🛠️ TOOL BOX
