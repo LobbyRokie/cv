@@ -2,9 +2,9 @@
 
 BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS MAJOR & MATH MINOR
 
-[<img src="images/Gmail icon.png" width="20">](mailto:rogerchen0418@gmail.com>) &nbsp; 
+[<img src="images/Gmail icon.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp; 
 [<img src="images/GitHub icon.png" width="20">](https://github.com/LobbyRokie) &nbsp; 
-[<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/)
+[<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br><br>
 
 
 
@@ -60,17 +60,18 @@ _(Dec 2011 - Aug 2012)_
 <br><br>
 
 
-## 🏫 EDUCATION
-**[SAN DIEGO STATE UNIVERSITY](https://www.sdsu.edu/)**\
-Master of Science in **Information Systems** - _Class of 2016_ <br>
+## 🎓 EDUCATION
+**[SAN DIEGO STATE UNIVERSITY](https://www.sdsu.edu/)** <br>
+Master of Science in **Information Systems** (In-major GPA: 3.67) - _Class of 2016_ <br>
 (Specialization in **Business Analytics**)
 
-**[UNIVERSITY OF CALIFORNIA, SAN DIEGO](https://www.ucsd.edu/)**\
+**[SAN DIEGO COMMUNITY COLLEGE](https://www.sdccd.edu/)** <br>
+Courses taken: **Principles of Info Systems, C++, Java.** (Cumulative GPA: 4.00) - _Summer, Fall 2014_ <br>
+
+**[UNIVERSITY OF CALIFORNIA, SAN DIEGO](https://www.ucsd.edu/)** <br>
 Bachelor of Science in **Management Science** - _Class of 2011_ <br>
 (Minor in **Mathematics**)
 <br><br>
-
-
 
 
 ## 📂 ACADEMIC PROJECTS 
@@ -134,9 +135,26 @@ The project is designed with SOW, Use Cases, Functional/Business Requirements, U
   * Drawing beneficial sponsorships from possible strategic partners and increasing our strategic alliances through cross-promotions. 
   * Identifying Aztec Power strengths, weaknesses, opportunities, and threats (SWOT Analysis), and analyzing both external and internal factors which can potentially affect our business.
   * Estimating cost and revenues and demonstrating the lucrativeness of the business model.
+<br><br>
 
 
+## 🔰 VOLUNTEER
+**INCOME TAX PREPARER @ [IRS VITA Program](https://www.irs.gov/individuals/irs-tax-volunteers)** <br>
+_(Feb 2014 - Apr 2014)_
+<!--* Prepared and filed tax returns for individuals at the IRS Volunteer Income Tax Assistance(VITA) Program. <br> -->
 
+**MATH TUTOR @ [De Anza College Student Success Center](https://www.deanza.edu/studentsuccess/)** <br>
+_(Jun 2009 - Jul 2009)_
+
+**TRANSLATOR @ 2008 Beijing Olympics** <br>
+_(Aug 2008 - Aug 2008)_
+<!--* Volunteered as a translator at the 2008 Beijing Olympics. -->
+<br>
+
+
+## 🌏 LANGUAGES
+**CHINESE** <br>
+**ENGLISH**
 
 
 
