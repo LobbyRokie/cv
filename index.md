@@ -3,15 +3,15 @@
 
 <!-- BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS/BUSINESS ANALYTICS MAJOR & MATH MINOR -->
 
-Business Analyst - Certified Data Science Associate - Information Systems/Business Analytics Major & Math Minor
+Business Analyst **⋅** Certified Data Science Associate **⋅** <br>
+Information Systems/Business Analytics Major & Math Minor
+<br>
 
 
-<br><br>
-[<img src="images/Gmail Icon new.png" width="40">](mailto:rogerchen0418@gmail.com) &nbsp;
-[<img src="images/curriculum-vitae.png" width="40">](https://github.com/LobbyRokie/cv) &nbsp;
-[<img src="images/GitHub icon.png" width="40">](https://github.com/LobbyRokie) &nbsp;
-[<img src="images/Linkedin icon.png" width="40">](https://www.linkedin.com/in/rogerchen0418/) <br><br>
-
+[<img src="images/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
+[<img src="images/curriculum-vitae.png" width="20">](https://github.com/LobbyRokie/cv) &nbsp;
+[<img src="images/GitHub icon.png" width="20">](https://github.com/LobbyRokie) &nbsp;
+[<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br>
 
 
 ## 🛠️ TOOL BOX
