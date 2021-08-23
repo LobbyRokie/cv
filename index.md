@@ -1,10 +1,16 @@
+
 # Roger Chen
 
-BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS MAJOR & MATH MINOR
+<!-- BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS/BUSINESS ANALYTICS MAJOR & MATH MINOR -->
 
-[<img src="images/Gmail icon.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp; 
-[<img src="images/GitHub icon.png" width="20">](https://github.com/LobbyRokie) &nbsp; 
-[<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br><br>
+Business Analyst - Certified Data Science Associate - Information Systems/Business Analytics Major & Math Minor
+
+
+<br><br>
+[<img src="images/Gmail Icon new.png" width="40">](mailto:rogerchen0418@gmail.com) &nbsp;
+[<img src="images/curriculum-vitae.png" width="40">](https://github.com/LobbyRokie/cv) &nbsp;
+[<img src="images/GitHub icon.png" width="40">](https://github.com/LobbyRokie) &nbsp;
+[<img src="images/Linkedin icon.png" width="40">](https://www.linkedin.com/in/rogerchen0418/) <br><br>
 
 
 
