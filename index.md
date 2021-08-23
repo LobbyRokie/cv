@@ -9,7 +9,7 @@ Information Systems/Business Analytics Major & Math Minor
 
 
 [<img src="images/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
-[<img src="images/curriculum-vitae.png" width="20">](https://github.com/LobbyRokie/cv) &nbsp;
+[<img src="images/resume.png" width="20">](https://github.com/LobbyRokie/cv) &nbsp;
 [<img src="images/GitHub icon.png" width="20">](https://github.com/LobbyRokie) &nbsp;
 [<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br>
 
