@@ -155,13 +155,13 @@ _(Jun 2009 - Jul 2009)_
 **TRANSLATOR @ 2008 Beijing Olympics** <br>
 _(Aug 2008 - Aug 2008)_
 <!--* Volunteered as a translator at the 2008 Beijing Olympics. -->
-<br>
+<br><br>
 
 
 ## 🌏 LANGUAGES
 **CHINESE** <br>
 **ENGLISH**
-
+<br><br>
 
 
 
