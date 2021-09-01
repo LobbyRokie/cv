@@ -68,14 +68,14 @@ _(Dec 2011 - Aug 2012)_
 
 ## 🎓 EDUCATION
 **[SAN DIEGO STATE UNIVERSITY](https://www.sdsu.edu/)** <br>
-M.S. in **Information Systems** (In-major GPA: 3.67) - _Class of 2016_ <br>
+**M.S.** in **Information Systems** (In-major GPA: 3.67) - _Class of 2016_ <br>
 (Specialization in **Business Analytics**)
 
 **[SAN DIEGO COMMUNITY COLLEGE](https://www.sdccd.edu/)** <br>
 Courses taken: **Principles of Info Systems, C++, Java.** (Cumulative GPA: 4.00) - _Summer, Fall 2014_ <br>
 
 **[UNIVERSITY OF CALIFORNIA, SAN DIEGO](https://www.ucsd.edu/)** <br>
-B.S. in **Management Science** - _Class of 2011_ <br>
+**B.S.** in **Management Science** - _Class of 2011_ <br>
 (Minor in **Mathematics**)
 <br><br>
 
