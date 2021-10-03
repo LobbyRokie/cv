@@ -15,15 +15,16 @@ Information Systems/Business Analytics Major & Math Minor
 
 
 ## 🛠️ TOOL BOX
-**Data Analytics:**    Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
-**Programming:** 	     SQL, R, Python, Java, C++, VBScript, MS Access/VBA Macro, XML, JSON. <br>
-**Other:** 		         Salesforce, SAP, Oracle PeopleSoft, Jira, QuickBooks, Microsoft Office, Visio, Visual Studio.
+**Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
+**Programming:** 	        SQL, R, Python, Java, C++, VBScript, MS Access/VBA Macro, XML, JSON. <br>
+**Other Tools:** 		      Salesforce, SAP, Oracle PeopleSoft, Jira, QuickBooks, Microsoft Office, Visual Studio, Visio.
+**Highlighted Skills:**   Dashboard Visualization, Predictive Modeling, System Analysis & Design, Project Management, Supply Chain Management, Quality Assurance.
 <br><br>
 
 ## 💼 EXPERIENCE
 **SENIOR BUSINESS SYSTEMS ANALYST @ [UC Santa Barbara](https://www.ucsb.edu/)** <br>
 Business & Financial Planning Team _(Sep 2019 - Present)_
-* **Business Intelligence:** Revolutionized and automated the reporting process in the DFSS department by establishing a new robust, sustainable, and scalable reporting system that served 5 business units and 30+ end users consist of AVC, CFO, directors, managers, and analysts across HR, finance, operations, and admin, and reduced report preparation time from 80 to 5 hours per month with real-time reporting and on-demand services.
+* **Business Intelligence:** Revolutionized and automated the reporting process in the DFSS department by establishing a new robust, sustainable, and scalable reporting system that served 5 business units and 30+ end users consist of AVC, CFO, directors, managers, and analysts across HR, finance, operations, and admin, and reduced report preparation time from 20 to 5 hours per week with real-time reporting and on-demand services.
 * **Power BI:** Built and maintained Power BI services that included 20+ workspaces and apps supported extensively with Data Modeling, Dataflows, Gateway, Power Query M Language, JSON, DAX, Calculated Measures, Drillthrough, Direct Query, Role Level Security, and Dynamic Reporting.
 * **UI Development:** Designed and built in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end with 100+ tables and views.
 * **SDLC:** Performed requirement analysis, planning, design, testing, implementation, and maintenance of the FIDO system (in-house web services using SOAP, REST, WSDL) that validated and transferred data between DFSS and UCSB systems across DEV, TST, UAT, and PRD environments. 
