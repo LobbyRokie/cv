@@ -17,7 +17,7 @@ Information Systems/Business Analytics Major & Math Minor
 ## 🛠️ TOOL BOX
 **Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
 **Programming:** 	        SQL, R, Python, Java, C++, VBScript, MS Access/VBA Macro, XML, JSON. <br>
-**Other Tools:** 		      Salesforce, SAP, Oracle PeopleSoft, Jira, QuickBooks, Microsoft Office, Visual Studio, Visio. <br>
+**Other Tools:** 		      Salesforce, SAP, Oracle PeopleSoft, Jira, Confluence, QuickBooks, Microsoft Office, Visual Studio, Visio. <br>
 **Highlighted Skills:**   Dashboard Visualization, Predictive Modeling, System Analysis & Design, Project Management, Supply Chain Management, Quality Assurance.
 <br><br>
 
@@ -160,8 +160,8 @@ _(Aug 2008 - Aug 2008)_
 
 
 ## 🌏 LANGUAGES
-**CHINESE** <br>
-**ENGLISH**
+**ENGLISH** <br>
+**CHINESE** 
 <br><br>
 
 
