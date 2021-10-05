@@ -34,7 +34,7 @@ Business & Financial Planning Team _(Sep 2019 - Present)_
 Technical Consulting Team _(Jul 2017 - Jul 2019)_
 * **Process Improvement:** Created in-depth analysis and visualization that interpreted consumer behavior, established data-driven evidence, and provided strategic recommendations to strive for improved customer satisfaction, operational efficiency, and higher ROI.
 * **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced the average duration of support tickets by 13%, and increased customer satisfaction by 15%.
-* **Project Management:** Gathered business requirements and assisted functional design with Agile SDLC model in a dynamic cross-functional environment.
+* **Project Management:** Gathered business requirements, assisted functional design, and collaborated development efforts with Agile SDLC model in a dynamic cross-functional environment.
 * **Consultation & Training:** Provided technical consultations and produced training materials to customers and internal company employees.
 <br><br>
 
