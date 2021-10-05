@@ -27,16 +27,15 @@ Business & Financial Planning Team _(Sep 2019 - Present)_
 * **Business Intelligence:** Revolutionized and automated the reporting process in DFSS department by establishing a new robust, sustainable, and scalable reporting system that served 5 business units and 30+ end users consist of AVC, CFO, directors, managers, and analysts across finance, operations, HR, and admin, which reduced report preparation time from 20 to 5 hours per week with real-time reporting and on-demand services.
 * **Power BI:** Built and maintained Power BI services that included 20+ workspaces and apps that are supported extensively with Data Modeling, Dataflows, Gateway, Power Query M Language, JSON, DAX, Calculated Measures, Drillthrough, Direct Query, Role Level Security, and Dynamic Reporting.
 * **UI Development:** Designed and developed in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end with 100+ tables and views.
-* **SDLC:** Performed requirement analysis, planning, design, testing, implementation, and maintenance of the FIDO system (in-house web services using SOAP, REST, WSDL) that validated and transferred data between DFSS and UCSB systems across SBX, TST, UAT, and PRD environments. 
+* **QA Testing:** Provided operational supports to troubleshoot, analyze, identify, document, and report FIDO (an in-house app with SOAP, REST APIs that validated and transferred data between the departmental and the UCSB systems) issues across SBX, TST, UAT, and PRD environments.
 <br><br>
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
 Technical Consulting Team _(Jul 2017 - Jul 2019)_
 * **Process Improvement:** Created in-depth analysis and visualization that interpreted consumer behavior, established data-driven evidence, and provided strategic recommendations to strive for improved customer satisfaction, operational efficiency, and higher ROI.
-* **System Implementation:** Conducted system analysis, process documentation, and ETL process to integrate a new CRM system that ultimately served 18% more customers, reduced the average duration of support tickets by 13%, and increased customer satisfaction by 15%.
-* **QA Testing:** Provided operational support to troubleshoot, analyze, identify, and solve complex technical and functional issues in a dynamic environment. 
-* **Project Management:** Gathered business requirements and assisted functional design with Agile development in a cross-functional environment.
-* **Consultation/Training:** Provided technical consultations and produced training materials to customers and internal company employees.
+* **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced the average duration of support tickets by 13%, and increased customer satisfaction by 15%.
+* **Project Management:** Gathered business requirements and assisted functional design with Agile SDLC model in a dynamic cross-functional environment.
+* **Consultation & Training:** Provided technical consultations and produced training materials to customers and internal company employees.
 <br><br>
 
 **BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
