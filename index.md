@@ -32,17 +32,17 @@ Business & Financial Planning Team _(Sep 2019 - Present)_
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
 Technical Consulting Team _(Jul 2017 - Jul 2019)_
-* **Process Improvement:** Created in-depth analysis and visualization that interpreted consumer behavior, established data-driven evidence, and provided strategic recommendations to strive for improved customer satisfaction, operational efficiency, and higher ROI.
-* **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced the average duration of support tickets by 13%, and increased customer satisfaction by 15%.
+* **Strategic Decision & Planning:** Created in-depth analysis and visualization that interpreted consumer behavior, established data-driven evidence, and provided strategic recommendations to strive for improved customer satisfaction, operational efficiency, and higher ROI.
+* **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced average support ticket duration by 13%, and increased customer satisfaction by 15%.
 * **Project Management:** Gathered business requirements, assisted functional design, and collaborated development efforts with Agile SDLC model in a dynamic cross-functional environment.
-* **Consultation & Training:** Provided technical consultations and produced training materials to customers and internal company employees.
+* **Consultation & Training:** Produced self-help materials and provided hands-on training and support to internal company employees and business clients.
 <br><br>
 
 **BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
 Business Analytics Team _(Sep 2016 - Jul 2017)_
 * **Data Analysis:** Extracted, transformed, and loaded raw data from various systems across ERP, CRM, and internal systems to build reports and dashboards that generated visibilities and insights in business performance via data analytics, ad-hoc reporting, KPIs, and business metrics.
+* **Strategic Decision Support:** Created lead quality KPIs, metrics and scorecards that ranked and recommended the most reliable broker partners to work with based on the quality of all historical leads, which reduced average lead duration time in pipeline by 30% and increased conversion rate by 18%.
 * **Business Process Improvement:** Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and reduced overall labor from 24 to 4 hours per month.
-* **Strategic Decision Support:** Created automated scorecard to rank and choose the most reliable business partners to work with, which resulted in 25% increase in ROI.
 * **Financial Reporting:** Collected financial data, conducted profitability analysis, and built automation dashboards across 12 lending branches for the executive team.
 * **Budget Modeling:** Created budget model that factored historical data over the past 5 years to strive for <10% variance between actual and budget.
 <br><br>
