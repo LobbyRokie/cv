@@ -56,7 +56,7 @@ _(Jul 2014 - Nov 2014)_
 _(May 2013 - Aug 2013)_
 * **CSR Support:** Promoted Corporate Social Responsibility and provided educational materials to help companies in China implement CSR practices.
 * **Case Management:** Increased the internal knowledge database by 60% in case studies and doubled the size of the case analyst team.
-* **Web Design:** Upgraded the case center website with a more user-friendly interface using WordPress, followed by a 30% increase in web traffic.
+* **Web Design:** Upgraded the case center website with a more user-friendly interface using WordPress, which increased web traffic by 30%.
 <br><br>
 
 **FINANCIAL SERVICE ASSOCIATE @ [World Financial Group](https://www.worldfinancialgroup.com/)** <br>
