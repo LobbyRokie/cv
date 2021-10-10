@@ -121,6 +121,9 @@ Curriculum: **Info Sys, C++, Java.** (Cumulative GPA: 4.00) - _Fall 2014_ <br>
 #### [Quality Assurance and Lean Six Sigma - Mesa Products](https://github.com/LobbyRokie/cv/tree/gh-pages/Academic%20Projects/Quality%20Control%20Six%20Sigma%20Projects) _(2015)_ <br>
 * The project conducted quality analysis of the product that emphasized continuous improvement in stakeholders, products, and processes based on Baldrige Quality Management Process, ISO9000 standards, and application of PDCA, Muda, Kaizen, SIPOC, Lean Six Sigma, and statistical analysis.
 
+#### [Cp and Cpk](https://github.com/LobbyRokie/cv/tree/gh-pages/Academic%20Projects/Quality%20Control%20Six%20Sigma%20Projects) _(2015)_ <br>
+* The paper introduced the difference between Cp and Cpk, illustrated their applications with examples, and emphasized the importance of process capability improvement in quality management.
+
 
 #### [System Analysis & Design - Home Inventory Management Systems (HIMS)](https://github.com/LobbyRokie/cv/tree/gh-pages/Academic%20Projects/System%20Analysis%20%26%20Design%20Projects)  _(2014)_ <br>
 * The Home Inventory Management System (HIMS) provides customers the ability to document their assets and take action if one is damaged, stolen, not working correctly or needs to be returned through a dynamic and responsive website paired with a mobile application for capturing home inventory pictures and details. Both the web and mobile application allow the owners to browse inventory, finalize the details of certain possessions and initiate insurance and warranty claims. Other functionality will include the ability to find a nearby location for the purchase of a replacement item or return of an item. <br>
@@ -129,6 +132,11 @@ The project is designed with SOW, Use Cases, Functional/Business Requirements, U
   * [System Requirements Specification](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/System%20Analysis%20%26%20Design%20Projects/System%20Analysis%20%26%20Design%20SRS%20-%20HIMS.pdf)
   * [Software Development Plan](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/System%20Analysis%20%26%20Design%20Projects/System%20Analysis%20%26%20Design%20SDP%20-%20HIMS.pdf)
   * [System Design Specification](https://github.com/LobbyRokie/cv/blob/gh-pages/Academic%20Projects/System%20Analysis%20%26%20Design%20Projects/System%20Analysis%20%26%20Design%20SDS%20-%20HIMS.pdf)
+
+#### [System Analysis & Design - Clinstance](https://github.com/LobbyRokie/cv/tree/gh-pages/Academic%20Projects/System%20Analysis%20%26%20Design%20Projects)  _(2016)_ <br>
+* The Clinstance system is an ultimate clinic scheduling and appointment tracking system that tracks meeting duration, treatment quality, and patient feedback. The system is designed to provide objective and subjective healthcare provider performance information to patients by recording and collecting appointment and treatment data. The end users consist two parities: patients and healthcare providers. 
+The project includes business requirements, software requirement specification, use cases, context diagram, DFD. <br>
+
 
 #### [Financial Analysis - Internet Information Provider Industry (Google, FB, LinkedIn, Yahoo, Yelp](https://github.com/LobbyRokie/cv/tree/gh-pages/Academic%20Projects/Financial%20Analysis%20Projects)  _(2014)_ <br>
 * The project includes individual financial analysis and SWOT analysis for Google, FaceBook, LinkedIn, Yahoo, and Yelp and a consolidated comparison among the five companies. 
