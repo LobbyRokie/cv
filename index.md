@@ -17,7 +17,7 @@ Information Systems/Business Analytics Major & Math Minor
 ## 🛠️ TOOL BOX
 **Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
 **Programming:** 	        SQL, R, Python, Java, C++, VBScript, MS Access/VBA Macro, XML, JSON. <br>
-**Other Tools:** 		      Salesforce, SAP, Oracle PeopleSoft, Jira, Smartsheet, Confluence, Microsoft Office, Visual Studio, Visio, QuickBooks. <br>
+**Other Tools:** 		      SAP, Salesforce, Oracle PeopleSoft, Jira, Smartsheet, Microsoft Office, Visual Studio, Visio, Lucidchart, Confluence, QuickBooks. <br>
 <br><br>
 
 ## 💼 EXPERIENCE
@@ -53,7 +53,7 @@ _(Jul 2014 - Nov 2014)_
 
 **CASE CENTER MANAGER @ [InnoCSR](https://www.innocsr.com/)** <br>
 _(May 2013 - Aug 2013)_
-* **CSR Support:** Promoted Corporate Social Responsibility and provided educational materials to help companies in China implement CSR practices.
+* **CSR Support:** Advocated Corporate Social Responsibility and produced educational materials to help companies in China implement CSR practices.
 * **Case Management:** Increased the internal knowledge database by 60% in case studies and doubled the size of the case analyst team.
 * **Web Design:** Upgraded the case center website with a more user-friendly interface using WordPress, which increased web traffic by 30%.
 <br><br>
