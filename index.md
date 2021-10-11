@@ -18,33 +18,32 @@ Information Systems/Business Analytics Major & Math Minor
 **Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
 **Programming:** 	        SQL, R, Python, Java, C++, VBScript, MS Access/VBA Macro, XML, JSON. <br>
 **Other Tools:** 		      Salesforce, SAP, Oracle PeopleSoft, Jira, Smartsheet, Confluence, Microsoft Office, Visual Studio, Visio, QuickBooks. <br>
-**Highlighted Skills:**   Data Analysis, Dashboard Visualization, Predictive Modeling, System Analysis & Design, Project Management, Quality Assurance, Supply Chain Management.
 <br><br>
 
 ## 💼 EXPERIENCE
 **SENIOR BUSINESS SYSTEMS ANALYST @ [UC Santa Barbara](https://www.ucsb.edu/)** <br>
 Business & Financial Planning Team _(Sep 2019 - Present)_
-* **Business Intelligence:** Revolutionized and automated the reporting process in DFSS department by establishing a new robust, sustainable, and scalable reporting system that served 5 business units and 30+ end users consist of AVC, CFO, directors, managers, and analysts across finance, operations, HR, and admin, which reduced report preparation time from 20 to 5 hours per week with real-time reporting and on-demand services.
-* **Power BI:** Built and maintained Power BI services that included 20+ workspaces and apps that are supported extensively with Data Modeling, Dataflows, Gateway, Power Query M Language, JSON, DAX, Calculated Measures, Drillthrough, Direct Query, Role Level Security, and Dynamic Reporting.
-* **UI Development:** Designed and developed in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end with 100+ tables and views.
-* **QA Testing:** Provided operational supports to troubleshoot, analyze, identify, document, and report FIDO (an in-house app with SOAP, REST APIs that validated and transferred data between the departmental and the UCSB systems) issues across SBX, TST, UAT, and PRD environments.
+* **Business Intelligence:** Revolutionized, automated, and streamlined reporting processes by establishing new robust, sustainable, and scalable reporting systems that served 5 business units and 30+ end users consist of AVC, CFO, directors, managers, and analysts across finance, admin, HR, and operations, which reduced report preparation time from 20 to 5 hours per week with real-time reporting and on-demand services.
+* **BI Reporting:** Developed and maintained Power BI reports and services that are extensively supported with Data Modeling, Data Flows, Role Level Security, Gateway, Power Query M Language, JSON, DAX, Calculated Measures, Drillthrough, and Direct Query across 20+ workspaces and apps.
+* **UI Development:** Designed and built an in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end on 100+ tables and views.
+* **QA Testing:** Provided operational supports to troubleshoot, analyze, identify, document, and report FIDO (an in-house app with SOAP, REST APIs that validated and transferred data between the department and the UCSB central system) issues across SBX, TST, UAT, and PRD environments.
 <br><br>
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
 Technical Consulting Team _(Jul 2017 - Jul 2019)_
-* **Strategic Decision & Planning:** Created in-depth analysis and visualization that interpreted consumer behavior, established data-driven evidence, and provided strategic recommendations to strive for improved customer satisfaction, operational efficiency, and higher ROI.
-* **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced average support ticket duration by 13%, and increased customer satisfaction by 15%.
-* **Project Management:** Gathered business requirements, assisted functional design, and collaborated development efforts with Agile SDLC model in a dynamic cross-functional environment.
-* **Consultation & Training:** Produced self-help materials and provided hands-on training and support to internal company employees and business clients.
+* **Service Analytics:** Created in-depth analysis based on client ticket volume, ticket type, time in service, total licenses, and 20+ measure values, which analyzed support service utilization, interpreted consumer behaviors, and provided strategic recommendations for service pricing adjustment, partnership agreement, and sustainability modeling to strive for improved service quality, increased customer satisfaction, and higher retention rate.
+* **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced the average support ticket duration by 13%, and increased customer satisfaction by 15%.
+* **Project Management:** Gathered business requirements and collaborated development efforts with Agile SDLC model with cross functional teams.
+* **Consultation & Training:** Produced self-help materials and provided hands-on training and support to internal employees and business clients.
 <br><br>
 
 **BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
 Business Analytics Team _(Sep 2016 - Jul 2017)_
-* **Data Analysis:** Extracted, transformed, and loaded raw data from various systems across ERP, CRM, and internal systems to build reports and dashboards that generated visibilities and insights in business performance via data analytics, ad-hoc reporting, KPIs, and business metrics.
-* **Strategic Decision Support:** Created lead quality KPIs, metrics and scorecards that ranked and recommended the most reliable broker partners to work with based on the quality of all historical leads, which reduced average lead duration time in pipeline by 30% and increased conversion rate by 18%.
-* **Business Process Improvement:** Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and reduced overall labor from 24 to 4 hours per month.
-* **Financial Reporting:** Collected financial data, conducted profitability analysis, and built automation dashboards across 12 lending branches for the executive team.
-* **Budget Modeling:** Created budget model that factored historical data over the past 5 years to strive for <10% variance between actual and budget.
+* **Data Analysis:** Extracted, transformed, and loaded raw data from multiple sources across SQL, CRM, and ERP systems that ensured data integrity and reliability to build storytelling visualizations and dashboards that generated information and insights for the stakeholders and the executives.
+* **Quality Analytics:** Created lead quality KPI metrics and scorecards that evaluated and recommended the most reliable broker partners to work with based on the quality of all historical leads, which reduced average lead duration time in pipeline by 30% and increased conversion rate by 18%.
+* **Business Process Enhancement:** Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and reduced overall labor from 24 to 4 hours per month.
+* **Financial Reporting:** Collected financial data, conducted profitability analysis, and built automation dashboards for 12 branches for the executives.
+* **Budget Modeling:** Created budget model that factored historical data over the past 5 years to strive for <10% var. between actual and budget.
 <br><br>
 
 **ACCOUNTING SUMMER INTERN @ [Big Brothers Big Sisters](https://www.bbbs.org/)** <br>
@@ -61,8 +60,8 @@ _(May 2013 - Aug 2013)_
 
 **FINANCIAL SERVICE ASSOCIATE @ [World Financial Group](https://www.worldfinancialgroup.com/)** <br>
 _(Dec 2011 - Aug 2012)_
-* **Financial Investment:** Helped clients develop diversified financial portfolios to reduce overall risks while striving for >6% ROI.
-* **Financial Education:** Assisted manager in conducting periodic educational seminars on financial management for clients and prospects.
+* **Investment Management:** Helped clients develop diversified financial portfolios to reduce overall risks while striving for >6% ROI.
+* **Financial Education:** Assisted the team in conducting financial educational seminars and workshops for clients and prospects.
 <br><br>
 
 
