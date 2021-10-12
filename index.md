@@ -3,7 +3,7 @@
 
 <!-- BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS/BUSINESS ANALYTICS MAJOR & MATH MINOR -->
 
-Business Analyst **⋅** Certified Data Science Associate **⋅** <br>
+Business Intelligence Developer **⋅** Certified Data Science Associate **⋅** <br>
 Information Systems/Business Analytics Major & Math Minor
 <br>
 
@@ -11,8 +11,23 @@ Information Systems/Business Analytics Major & Math Minor
 [<img src="images/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
 [<img src="images/resume.png" width="20">](https://github.com/LobbyRokie/cv) &nbsp;
 [<img src="images/GitHub icon.png" width="20">](https://github.com/LobbyRokie) &nbsp;
-[<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br>
+[<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br><br>
 
+## 🍄 ABOUT ME
+I'm a Business Intelligence Developer and data fanatic with 5+ years of experience in data analytics, including data mining, statistical analysis, predictive analytics, automation dashboard, ETL development, and database management. <br>
+
+Things I hate:
+* Data ambiguity, data discontinuity, data distortion.
+* Data source sitting in Excel sheet...
+* Manual and paper Reports.
+* Blue cheese 🤮
+
+Things I like:
+* Data integrity, data reliability.
+* Automation dashboard that delivers intuitive and interactive user experience. 
+* Data-driven solutions and strategic decisions.
+* All food but blue cheese 🙂
+<br>
 
 ## 🛠️ TOOL BOX
 **Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
@@ -23,7 +38,7 @@ Information Systems/Business Analytics Major & Math Minor
 ## 💼 EXPERIENCE
 **SENIOR BUSINESS SYSTEMS ANALYST @ [UC Santa Barbara](https://www.ucsb.edu/)** <br>
 Business & Financial Planning Team _(Sep 2019 - Present)_
-* **Business Intelligence:** Revolutionized, automated, and streamlined reporting processes by establishing new robust, sustainable, and scalable reporting systems that served 5 business units and 30+ end users consist of AVC, CFO, directors, managers, and analysts across finance, admin, HR, and operations, which reduced report preparation time from 20 to 5 hours per week with real-time reporting and on-demand services.
+* **Business Intelligence:** Revolutionized, automated, and streamlined reporting process by establishing new robust, sustainable, and scalable BI systems that served 5 business units and 30+ end users, including Associate Vice Chancellor and analysts, and reduced report preparation time from 20 to 5 hours per week with real-time reporting and on-demand services.
 * **BI Reporting:** Developed and maintained Power BI reports and services that are extensively supported with Data Modeling, Data Flows, Role Level Security, Gateway, Power Query M Language, JSON, DAX, Calculated Measures, Drillthrough, and Direct Query across 20+ workspaces and apps.
 * **UI Development:** Designed and built an in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end on 100+ tables and views.
 * **QA Testing:** Provided operational supports to troubleshoot, analyze, identify, document, and report FIDO (an in-house app with SOAP, REST APIs that validated and transferred data between the department and the UCSB central system) issues across SBX, TST, UAT, and PRD environments.
