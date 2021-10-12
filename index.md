@@ -20,13 +20,11 @@ Things I hate:
 * Data ambiguity, data discontinuity, data distortion.
 * Data source sitting in Excel sheet...
 * Manual and paper Reports.
-* Blue cheese 🤮
 
 Things I like:
 * Data integrity, data reliability.
 * Automation dashboard that delivers intuitive and interactive user experience. 
 * Data-driven solutions and strategic decisions.
-* All food but blue cheese 🙂
 <br>
 
 ## 🛠️ TOOL BOX
