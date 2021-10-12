@@ -16,12 +16,12 @@ Information Systems/Business Analytics Major & Math Minor
 ## 🍄 ABOUT ME
 I'm a Business Intelligence Developer and data fanatic with 5+ years of experience in data analytics, including data mining, statistical analysis, predictive analytics, automation dashboard, ETL development, and database management. <br>
 
-Things I hate:
+#### Things I hate:
 * Data ambiguity, data discontinuity, data distortion.
 * Data source sitting in Excel sheet...
 * Manual and paper Reports.
 
-Things I like:
+#### Things I like:
 * Data integrity, data reliability.
 * Automation dashboard that delivers intuitive and interactive user experience. 
 * Data-driven solutions and strategic decisions.
