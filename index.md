@@ -19,7 +19,7 @@ I'm a Business Intelligence Developer and data fanatic with 5+ years of experien
 #### Things I hate:
 * Data ambiguity, data discontinuity, data distortion.
 * Data source sitting in Excel sheet...
-* Manual and paper Reports.
+* Manual and paper reports.
 * Poor and incomplete data collection.
 
 #### Things I like:
