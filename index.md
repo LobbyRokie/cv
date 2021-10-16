@@ -20,11 +20,14 @@ I'm a Business Intelligence Developer and data fanatic with 5+ years of experien
 * Data ambiguity, data discontinuity, data distortion.
 * Data source sitting in Excel sheet...
 * Manual and paper Reports.
+* Poor and incomplete data collection.
 
 #### Things I like:
-* Data integrity, data reliability.
-* Automation dashboard that delivers intuitive and interactive user experience. 
-* Data-driven solutions and strategic decisions.
+* Data integrity and data reliability.
+* Elegant automation dashboard that delivers intuitive and interactive user experience. 
+* Intelligent data-driven solutions and strategic decisions.
+* Discovering the hidden wants and needs behind data!
+
 <br>
 
 ## 🛠️ TOOL BOX
