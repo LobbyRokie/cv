@@ -33,7 +33,7 @@ I'm a Business Intelligence Developer and data fanatic with 5+ years of experien
 ## 🛠️ TOOL BOX
 **Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
 **Programming:** 	        SQL, R, Python, Java, C++, VBScript, MS Access/VBA Macro, XML, JSON. <br>
-**Other Tools:** 		      SAP, Salesforce, Oracle PeopleSoft, Jira, Smartsheet, Microsoft Office, Visual Studio, Visio, Lucidchart, Confluence, QuickBooks. <br>
+**Other Tools:** 		      SAP, Salesforce, Oracle PeopleSoft, Jira, Smartsheet, Microsoft Office, SharePoint, Visual Studio, Visio, Lucidchart, Confluence, QuickBooks. <br>
 <br><br>
 
 ## 💼 EXPERIENCE
