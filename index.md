@@ -33,31 +33,33 @@ I'm a Business Intelligence Developer and data fanatic with 5+ years of experien
 ## 🛠️ TOOL BOX
 **Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
 **Programming:** 	        SQL, R, Python, Java, C++, VBScript, MS Access/VBA Macro, XML, JSON. <br>
-**Other Tools:** 		      SAP, Salesforce, Oracle PeopleSoft, Jira, Smartsheet, Microsoft Office, SharePoint, Visual Studio, Visio, Lucidchart, Confluence, QuickBooks. <br>
+**Other Tools:** 		      Salesforce, SAP, Oracle Financials, PeopleSoft, Microsoft Office, SharePoint, Visual Studio, Smartsheet, Visio, Lucidchart, JIRA, Confluence, QuickBooks. <br>
 <br><br>
 
 ## 💼 EXPERIENCE
 **SENIOR BUSINESS SYSTEMS ANALYST @ [UC Santa Barbara](https://www.ucsb.edu/)** <br>
 Business & Financial Planning Team _(Sep 2019 - Present)_
-* **Business Intelligence:** Revolutionized, automated, and streamlined reporting process by establishing new robust, sustainable, and scalable BI systems that served 5 business units and 30+ end users from Associate Vice Chancellor to analysts, and reduced report preparation time from 20 to 5 hours per week with real-time reporting and on-demand services.
-* **BI Reporting:** Developed and maintained Power BI reports and services that are extensively supported with Data Modeling, Data Flows, Role Level Security, Gateway, Power Query M Language, JSON, DAX, Calculated Measures, Drillthrough, and Direct Query across 20+ workspaces and apps.
+* **Business Intelligence:** Revolutionized, automated, and streamlined financial processes by establishing new robust, sustainable, and scalable management reports that reside on 20+ workspaces and apps that served 5 business units and 30+ audiences from directors to analysts.
+* **Quantitative Data Analysis:** Gathered and translated end user reporting requirements into design documents, extracted and manipulated data from multiple data sources across SQL server, CRM and ERP systems, and developed storytelling visualizations that drove actionable insights. 
+* **Automation Dashboard:** Built intuitive and interactive dashboards that reduced average reporting time from 20 to 5 hours per week for the team.
 * **UI Development:** Designed and built an in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end on 100+ tables and views.
 * **QA Testing:** Provided operational supports to troubleshoot, analyze, identify, document, and report FIDO (an in-house app with SOAP, REST APIs that validated and transferred data between the department and the UCSB central system) issues across SBX, TST, UAT, and PRD environments.
+* **Mentorship:** Documented BI reporting processes, sources, and tips and provided trainings and supports to other analysts and interns. 
 <br><br>
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
 Technical Consulting Team _(Jul 2017 - Jul 2019)_
-* **Service Analytics:** Created in-depth analysis based on client ticket volume, ticket type, time in service, total licenses, and 20+ measure values, which analyzed support service utilization, interpreted consumer behaviors, and provided strategic recommendations for service pricing adjustment, partnership agreement, and sustainability modeling to strive for improved service quality, increased customer satisfaction, and higher retention rate.
+* **Strategic Planning and Decisions:** Led complex strategic projects and conducted in-depth analyses for service utilization to interpret consumer behaviors and drive insight and alignment and communicated business-critical information and provided strategic recommendations to senior stakeholders to strive for improved service quality, increased customer satisfaction, and higher retention rate.
 * **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced the average support ticket duration by 13%, and increased customer satisfaction by 15%.
-* **Project Management:** Gathered business requirements and collaborated development efforts with Agile SDLC model with cross functional teams.
+* **Consulting Service:** Developed and built customized features and functionalities on the loan software with VBScript and SQL for customers. 
+* **Agile SDLC:** Planned, tested, and implemented projects with Agile model on cross-functional teams.
 * **Consultation & Training:** Produced self-help materials and provided hands-on training and support to internal employees and business clients.
 <br><br>
 
 **BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
 Business Analytics Team _(Sep 2016 - Jul 2017)_
-* **Data Analysis:** Extracted, transformed, and loaded raw data from multiple sources across SQL, CRM, and ERP systems that ensured data integrity and reliability to build storytelling visualizations and dashboards that generated information and insights for the stakeholders and the executives.
-* **Quality Analytics:** Created lead quality KPI metrics and scorecards that evaluated and recommended the most reliable broker partners to work with based on the quality of all historical leads, which reduced average lead duration time in pipeline by 30% and increased conversion rate by 18%.
-* **Business Process Enhancement:** Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and reduced overall labor from 24 to 4 hours per month.
+* **Data Analytics:** Developed sales and marketing metrics and scorecards that evaluated and recommended the most reliable broker partners to work with based on the quality of all historical leads, which reduced average lead duration time in pipeline by 30% and increased conversion rate by 18%.
+* **Business Process Improvement:** Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and reduced overall labor from 24 to 4 hours per month.
 * **Financial Reporting:** Collected financial data, conducted profitability analysis, and built automation dashboards for 12 branches for the executives.
 * **Budget Modeling:** Created budget model that factored historical data over the past 5 years to strive for <10% var. between actual and budget.
 <br><br>
