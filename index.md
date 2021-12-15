@@ -9,7 +9,7 @@ Information Systems/Business Analytics Major & Math Minor
 
 
 [<img src="images/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
-[<img src="images/resume.png" width="20">](https://github.com/LobbyRokie/cv/blob/527e67457f038ee87d6f3781416cc2adae58f419/Roger%20Chen%20Resume.pdf) &nbsp;
+[<img src="images/resume.png" width="20">](https://github.com/LobbyRokie/cv/blob/87b385e9dd3e951fa39643afa17253c4655101b1/Roger%20Chen%20Resume.pdf) &nbsp;
 [<img src="images/GitHub icon.png" width="20">](https://github.com/LobbyRokie) &nbsp;
 [<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br><br>
 
