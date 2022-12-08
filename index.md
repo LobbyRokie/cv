@@ -39,12 +39,12 @@ I'm a Business Intelligence Developer and data fanatic with 5+ years of experien
 ## 💼 EXPERIENCE
 **SENIOR BUSINESS SYSTEMS ANALYST @ [UC Santa Barbara](https://www.ucsb.edu/)** <br>
 Business & Financial Planning Team _(Sep 2019 - Present)_
-* **Business Intelligence:** Revolutionized, automated, and streamlined financial processes by establishing new robust, systematic, sustainable, and scalable management reports that reside on 20+ workspaces and apps that served 5 business units and 30+ audiences from executives to analysts. Built and maintained intuitive and interactive dashboards that reduced average reporting time from 20 to 5 hours per week for the team.
+* **Business Intelligence:** Revolutionized, automated, and streamlined financial processes by establishing new robust, systematic, sustainable, and scalable management reports that reside on 20+ workspaces and apps that served 5 business units and 40+ audiences from executives to analysts. Built and maintained automation dashboards that saved 30 hours of reporting time per week for the department.
 * **Quantitative Data Analysis:** Gathered and translated business requirements into technical and scalable BI solution design, retrieved and aggregated data from multiple sources across SQL server, CRM and ERP systems, and compiled it into a digestible and actionable format to generate actionable insights.
 * **Financial Analysis:** Manipulated a massive amount of data and Transformed data assets into business information and insights and developed financial automation dashboards (including Actual vs. Budget, YOY variance analysis, closing balance, year comparison and progression, payroll analysis, etc.) to enable effective decision making at BU and Departmental levels to streamline and improve financial visibilities and performance.
 * **UI Development:** Designed and built an in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end on 100+ tables and views.
 * **QA Testing:** Provided operational supports to troubleshoot, analyze, identify, document, and report FIDO (an in-house app with SOAP, REST APIs that validated and transferred data between the department and the UCSB central system) issues across SBX, TST, UAT, and PRD environments.
-* **Mentorship:** Documented BI reporting processes, sources, and tips and provided trainings and supports to other analysts and interns. 
+* **Mentorship:** Shared knowledge and provided trainings to other peers and interns across the organization as a recognized BI expert.
 <br><br>
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
