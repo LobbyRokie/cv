@@ -39,21 +39,23 @@ I'm a Business Intelligence Developer and data fanatic with 5+ years of experien
 ## 💼 EXPERIENCE
 **SENIOR BUSINESS SYSTEMS ANALYST @ [UC Santa Barbara](https://www.ucsb.edu/)** <br>
 Business & Financial Planning Team _(Sep 2019 - Present)_
-* **Business Intelligence:** Revolutionized, automated, and streamlined business reporting processes by establishing new robust, systematic, sustainable, and scalable automation dashboards that reside on 20+ workspaces and apps that served 5 business units and 40+ audiences from executives to analysts. Built and maintained intuitive and interactive Power BI reports and services that saved 30 hours of manual reporting time per week for the department.
-* **Quantitative Data Analysis:** Gathered and translated business requirements into technical and scalable BI solution design, retrieved and aggregated data from multiple sources across SQL server, CRM and ERP systems, and compiled it into a digestible and actionable format to generate actionable insights.
+* **Business Intelligence:** Revolutionized, automated, and streamlined business reporting processes by establishing new robust, systematic, sustainable, and scalable automation dashboards that reside on 20+ workspaces and apps that served 5 business units and 40+ audiences from executives to analysts. Built and maintained intuitive and interactive Power BI reports and services that saved 30 hours and thousands of dollars per week in operation.
+<!--* **Quantitative Data Analysis:** Gathered and translated business requirements into technical and scalable BI solution design, retrieved and aggregated data from multiple sources across SQL server, CRM and ERP systems, and compiled it into a digestible and actionable format to generate actionable insights.-->
+* **Visualization Solutions:** Designed, developed, and deployed sophisticated end-to-end analytics solutions, including SQL development, front end automation dashboards, paginations and stories, which delivered intuitive and elegant user experience and have received wide recognition.
+* **Maintenance and Enhancement:** Troubleshot and performed root cause analysis, established countermeasures and improvements, and optimized queries and functions that reduced the volume of production incidents by 20% and decreased overall system downtime by 25%. 
 * **Financial Analysis:** Manipulated a massive amount of data and Transformed data assets into business information and insights and developed financial automation dashboards (including Actual vs. Budget, YOY variance analysis, closing balance, year comparison and progression, payroll analysis, etc.) to enable effective decision making at BU and Departmental levels to streamline and improve financial visibilities and performance.
-* **UI Development:** Designed and built an in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end on 100+ tables and views.
-* **QA Testing:** Provided operational supports to troubleshoot, analyze, identify, document, and report FIDO (an in-house app with SOAP, REST APIs that validated and transferred data between the department and the UCSB central system) issues across SBX, TST, UAT, and PRD environments.
+<!--* **UI Development:** Designed and built an in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end on 100+ tables and views.
+* **QA Testing:** Provided operational supports to troubleshoot, analyze, identify, document, and report FIDO (an in-house app with SOAP, REST APIs that validated and transferred data between the department and the UCSB central system) issues across SBX, TST, UAT, and PRD environments.-->
 * **Mentorship:** Shared knowledge and provided trainings to other peers and interns across the organization as a recognized BI expert.
 <br><br>
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
 Technical Consulting Team _(Jul 2017 - Jul 2019)_
-* **Strategic Planning and Decisions:** Led complex strategic projects and conducted in-depth analyses for service utilization to interpret consumer behaviors and drive insight and alignment and communicated business-critical information and provided strategic recommendations to senior stakeholders to strive for improved service quality, increased customer satisfaction, and higher retention rate.
+* **Strategic Planning and Decisions:** Led complex strategic projects and conducted in-depth analyses for service utilization to interpret consumer behaviors and drive insight and alignment and communicated business-critical information and provided strategic recommendations to the CEO and the executive leadership to strive for improved service quality, increased customer satisfaction, and higher retention rate.
 * **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced the average support ticket duration by 13%, and increased customer satisfaction by 15%.
-* **Consulting Service:** Developed and built customized features and functionalities on the loan software with VBScript and SQL for customers. 
 * **Agile SDLC:** Planned, tested, and implemented projects with Agile model on cross-functional teams.
-* **Consultation & Training:** Produced self-help materials and provided hands-on training and support to internal employees and business clients.
+* **Consulting Service:** Built customized features and functionalities embedded in the loan software with SQL and VBScript for business clients. 
+* **Knowledge Leverage:** Produced self-help materials in the company knowledge base for business clients and internal employee training.
 <br><br>
 
 **BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
@@ -66,14 +68,15 @@ Business Analytics Team _(Sep 2016 - Jul 2017)_
 
 **ACCOUNTING SUMMER INTERN @ [Big Brothers Big Sisters](https://www.bbbs.org/)** <br>
 _(Jul 2014 - Nov 2014)_
-* **General Accounting:** Assisted the Director of Finance and performed functions with A/P, A/R, reconciliation, budgeting, and forecasting.
+* **General Accounting:** Assisted the Director of Finance in A/P, A/R, reconciliation, budgeting, forecasting, reporting, and financial analysis.
 <br><br>
 
 **CASE CENTER MANAGER @ [InnoCSR](https://www.innocsr.com/)** <br>
 _(May 2013 - Aug 2013)_
-* **CSR Support:** Advocated Corporate Social Responsibility and produced educational materials to help companies in China implement CSR practices.
-* **Case Management:** Increased the internal knowledge database by 60% in case studies and doubled the size of the case analyst team.
-* **Web Design:** Upgraded the case center website with a more user-friendly interface using WordPress, which increased web traffic by 30%.
+* **Case Management:** Increased the internal knowledge database by 60% in case studies and doubled the size of the case analyst team in 4 months.
+* **Web Design:** Upgraded the company website UI with more user-friendly design using WordPress, resulting 15% increase in web traffic.
+* **Corporate Social Responsibility(CSR):** Advocated CSR and produced educational materials to help companies implement CSR practices.
+
 <br><br>
 
 **FINANCIAL SERVICE ASSOCIATE @ [World Financial Group](https://www.worldfinancialgroup.com/)** <br>
