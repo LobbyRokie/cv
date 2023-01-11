@@ -13,20 +13,25 @@ Information Systems/Business Analytics Major & Math Minor
 [<img src="images/GitHub icon.png" width="20">](https://github.com/LobbyRokie) &nbsp;
 [<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br><br>
 
-## 🍄 ABOUT ME
-I'm a Business Intelligence Developer and data fanatic with 5+ years of experience in data analytics, including data mining, statistical analysis, predictive analytics, automation dashboard, ETL development, and database management. <br>
+## 🍄 About Me:
+I'm a Business Intelligence Developer and a data fanatic with 6+ years of experience in end-to-end visualization solutions, including data mining, SQL development, ETL process, visualization development, statistical analysis, and predictive modeling. 
 
-#### Things I hate:
-* Data ambiguity, data discontinuity, data distortion.
-* Data source sitting in Excel sheet...
+lean method.
+data analytics, including end-to-end vius SQL Development,  data mining, statistical analysis, predictive analytics, automation dashboard, ETL development, and database management. <br>
+
+#### Things I like 🙂:
+* Discovering the hidden wants and needs behind data!
+* Data integrity and data reliability.
+* Intuitive and elegant visualization.
+* Intelligent data-driven solutions and strategic decisions.
+* Make my end users and audiences happy 😃.
+* Lean Method!
+
+#### Things I hate 😑:
+* Data ambiguity, data discontinuity, and data distortion.
+* Data source residing in Excel sheet...
 * Manual and paper reports.
 * Poor and incomplete data collection.
-
-#### Things I like:
-* Data integrity and data reliability.
-* Elegant automation dashboard that delivers intuitive and interactive user experience. 
-* Intelligent data-driven solutions and strategic decisions.
-* Discovering the hidden wants and needs behind data!
 
 <br>
 
