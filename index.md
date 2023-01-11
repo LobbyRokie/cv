@@ -44,9 +44,9 @@ Business & Financial Planning Team _(Sep 2019 - Present)_
 * **Visualization Solutions:** Designed, developed, and deployed sophisticated end-to-end analytics solutions, including SQL development, front end automation dashboards, paginations and stories, which delivered intuitive and elegant user experience and have received wide recognition.
 * **Maintenance and Enhancement:** Troubleshot and performed root cause analysis, established countermeasures and improvements, and optimized queries and functions that reduced the volume of production incidents by 20% and decreased overall system downtime by 25%. 
 * **Financial Analysis:** Manipulated a massive amount of data and Transformed data assets into business information and insights and developed financial automation dashboards (including Actual vs. Budget, YOY variance analysis, closing balance, year comparison and progression, payroll analysis, etc.) to enable effective decision making at BU and Departmental levels to streamline and improve financial visibilities and performance.
+* **Mentorship:** Shared knowledge and provided trainings to other peers and interns across the organization as a recognized BI expert.
 <!--* **UI Development:** Designed and built an in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end on 100+ tables and views.
 * **QA Testing:** Provided operational supports to troubleshoot, analyze, identify, document, and report FIDO (an in-house app with SOAP, REST APIs that validated and transferred data between the department and the UCSB central system) issues across SBX, TST, UAT, and PRD environments.-->
-* **Mentorship:** Shared knowledge and provided trainings to other peers and interns across the organization as a recognized BI expert.
 <br><br>
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
@@ -55,7 +55,7 @@ Technical Consulting Team _(Jul 2017 - Jul 2019)_
 * **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced the average support ticket duration by 13%, and increased customer satisfaction by 15%.
 * **Agile SDLC:** Planned, tested, and implemented projects with Agile model on cross-functional teams.
 * **Consulting Service:** Built customized features and functionalities embedded in the loan software with SQL and VBScript for business clients. 
-* **Knowledge Leverage:** Produced self-help materials in the company knowledge base for business clients and internal employee training.
+* **Knowledge Leverage:** Produced self-help materials in the company knowledge base center for business clients and internal employee training.
 <br><br>
 
 **BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
