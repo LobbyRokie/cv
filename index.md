@@ -16,8 +16,6 @@ Information Systems/Business Analytics Major & Math Minor
 ## 🍄 About Me:
 I'm a Business Intelligence Developer and a data fanatic with 6+ years of experience in end-to-end visualization solutions, including data mining, SQL development, ETL process, visualization development, statistical analysis, and predictive modeling. 
 
-lean method.
-data analytics, including end-to-end vius SQL Development,  data mining, statistical analysis, predictive analytics, automation dashboard, ETL development, and database management. <br>
 
 #### Things I like 🙂:
 * Discovering the hidden wants and needs behind data!
@@ -27,7 +25,7 @@ data analytics, including end-to-end vius SQL Development,  data mining, statist
 * Make my end users and audiences happy 😃.
 * Lean Method!
 
-#### Things I hate 😑:
+#### Things I hate 😕:
 * Data ambiguity, data discontinuity, and data distortion.
 * Data source residing in Excel sheet...
 * Manual and paper reports.
