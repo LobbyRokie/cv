@@ -33,7 +33,7 @@ I'm a Business Intelligence Developer and data fanatic with 5+ years of experien
 ## 🛠️ TOOL BOX
 **Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
 **Programming:** 	        SQL, R, Python, Java, C++, VBScript, MS Access/VBA Macro, XML, JSON. <br>
-**Other Tools:** 		      Salesforce, SAP, Oracle Financials, PeopleSoft, Microsoft Office, SharePoint, Visual Studio, Smartsheet, Visio, Lucidchart, JIRA, Confluence, QuickBooks. <br>
+**Other Tools:** 		      Salesforce, SAP, Oracle Financials, PeopleSoft, Microsoft Office, SharePoint, Visual Studio, Smartsheet, Visio, Lucidchart, Jira, Confluence, QuickBooks. <br>
 <br><br>
 
 ## 💼 EXPERIENCE
@@ -44,9 +44,6 @@ Business & Financial Planning Team _(Sep 2019 - Present)_
 * **Maintenance and Enhancement:** Troubleshot and performed root cause analysis, established countermeasures and improvements, and optimized queries and functions that reduced the volume of production incidents by 20% and decreased overall system downtime by 25%. 
 * **Financial Analysis:** Manipulated a massive amount of data and Transformed data assets into business information and insights and developed financial automation dashboards (including Actual vs. Budget, YOY variance analysis, closing balance, year comparison and progression, payroll analysis, etc.) to enable effective decision making at BU and Departmental levels to streamline and improve financial visibilities and performance.
 * **Mentorship:** Shared knowledge and provided trainings to other peers and interns across the organization as a recognized BI expert.
-<!--* **Quantitative Data Analysis:** Gathered and translated business requirements into technical and scalable BI solution design, retrieved and aggregated data from multiple sources across SQL server, CRM and ERP systems, and compiled it into a digestible and actionable format to generate actionable insights.-->
-<!--* **UI Development:** Designed and built an in-house front-end interface program with MS Access DB to add, edit, and delete records with customized functions, bound/unbound controls, VBA, macros, nested forms that are linked to SQL back-end on 100+ tables and views.
-* **QA Testing:** Provided operational supports to troubleshoot, analyze, identify, document, and report FIDO (an in-house app with SOAP, REST APIs that validated and transferred data between the department and the UCSB central system) issues across SBX, TST, UAT, and PRD environments.-->
 <br><br>
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
