@@ -51,7 +51,7 @@ Business & Financial Planning Team _(Sep 2019 - Present)_
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
 Technical Consulting Team _(Jul 2017 - Jul 2019)_
-* **Strategic Planning and Decisions:** Led complex strategic projects and conducted in-depth analyses for service utilization to interpret consumer behaviors and drive insight and alignment and communicated business-critical information and provided strategic recommendations to the CEO and the executive leadership to strive for improved service quality, increased customer satisfaction, and higher retention rate.
+* **Business Analytics:** Led complex strategic projects and conducted in-depth analyses for service utilization to interpret consumer behaviors and drive insight and alignment and communicated business-critical information and provided strategic recommendations to the CEO and the executive leadership to strive for improved service quality, increased customer satisfaction, and higher retention rate.
 * **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced the average support ticket duration by 13%, and increased customer satisfaction by 15%.
 * **Agile SDLC:** Planned, tested, and implemented projects with Agile model on cross-functional teams.
 * **Consulting Service:** Built customized features and functionalities embedded in the loan software with SQL and VBScript for business clients. 
