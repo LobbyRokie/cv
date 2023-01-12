@@ -44,16 +44,15 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 Business & Financial Planning Team _(Sep 2019 - Present)_
 * **Business Intelligence:** Revolutionized, automated, and streamlined business reporting processes by establishing new robust, systematic, sustainable, and scalable automation dashboards that reside on 20+ workspaces and apps that served 5 business units and 40+ audiences from executives to analysts. Built and maintained intuitive and interactive Power BI reports and services that saved 30 hours and thousands of dollars per week in operation.
 * **Visualization Solutions:** Designed, developed, and deployed sophisticated end-to-end analytics solutions, including SQL development, front end automation dashboards, paginations and stories, which delivered intuitive and elegant user experience and have received wide recognition.
-* **Maintenance and Enhancement:** Troubleshot and performed root cause analysis, established countermeasures and improvements, and optimized queries and functions that reduced the volume of production incidents by 20% and decreased overall system downtime by 25%. 
-* **Financial Analysis:** Manipulated a massive amount of data and Transformed data assets into business information and insights and developed financial automation dashboards (including Actual vs. Budget, YOY variance analysis, closing balance, year comparison and progression, payroll analysis, etc.) to enable effective decision making at BU and Departmental levels to streamline and improve financial visibilities and performance.
-* **Mentorship:** Shared knowledge and provided trainings to other peers and interns across the organization as a recognized BI expert.
+* **Lean Method and Improvement:** Incorporated Lean methods in daily management and report building, which helped improve report reliability and minimize on-going maintenance, resulting 20% reduction in production incident volume and 25% decrease in overall system downtime.
+* **User Support:** Troubleshot, established countermeasures and provided timely resolutions for end users, usually within a turnaround time of 48 hrs.
+* **Mentorship:** Shared knowledge and provided trainings to other peers and interns in the organization as a recognized BI expert.
 <br><br>
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
 Technical Consulting Team _(Jul 2017 - Jul 2019)_
-* **Business Analytics:** Led complex strategic projects and conducted in-depth analyses for service utilization to interpret consumer behaviors and drive insight and alignment and communicated business-critical information and provided strategic recommendations to the CEO and the executive leadership to strive for improved service quality, increased customer satisfaction, and higher retention rate.
+* **Data Analysis:** Led complex strategic projects and conducted in-depth analyses for service utilization to interpret consumer behaviors and drive insight and alignment and communicated business-critical information and provided strategic recommendations to the CEO and the executive leadership to strive for improved service quality, increased customer satisfaction, and higher retention rate.
 * **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced the average support ticket duration by 13%, and increased customer satisfaction by 15%.
-* **Agile SDLC:** Planned, tested, and implemented projects with Agile model on cross-functional teams.
 * **Consulting Service:** Built customized features and functionalities embedded in the loan software with SQL and VBScript for business clients. 
 * **Knowledge Leverage:** Produced self-help materials in the company knowledge base center for business clients and internal employee training.
 <br><br>
