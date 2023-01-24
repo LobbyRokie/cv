@@ -14,7 +14,7 @@ Information Systems/Business Analytics Major & Math Minor
 [<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br><br>
 
 ## 🍄 About Me:
-I'm a Business Intelligence Developer and a data fanatic with 6+ years of experience in end-to-end visualization solutions, including data mining, SQL development, ETL process, visualization development, statistical analysis, and predictive modeling. 
+I'm a Business Intelligence Developer and a data fanatic with 6+ years of experience in end-to-end analytics solutions, including data mining, SQL development, ETL process, visualization development, statistical analysis, and predictive modeling. 
 
 
 #### Things make me 🙂:
