@@ -59,10 +59,10 @@ Technical Consulting Team _(Jul 2017 - Jul 2019)_
 
 **BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
 Business Analytics Team _(Sep 2016 - Jul 2017)_
-* Data Analytics: Developed sales KPIs and performance metrics that evaluated and recommended the most reliable broker partners to work with based on the quality of all historical leads, which reduced average lead duration in pipelines by 30% and increased conversion rate by 18%.
-* Process Improvement: Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and saved 20 hours per month in reporting.
-* Financial Reporting: Led profitability analysis and automated financial reports for 12 units in the lending department.
-* Budget Modeling: Created budget model that factored historical data from the past 5 years to strive for <10% variance between actual and budget.
+* **Data Analytics:** Developed sales KPIs and performance metrics that evaluated and recommended the most reliable broker partners to work with based on the quality of all historical leads, which reduced average lead duration in pipelines by 30% and increased conversion rate by 18%.
+* **Process Improvement:** Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and saved 20 hours per month in reporting.
+* **Financial Reporting:** Led profitability analysis and automated financial reports for 12 units in the lending department.
+* **Budget Modeling:** Created budget model that factored historical data from the past 5 years to strive for <10% variance between actual and budget.
 
 <br><br>
 
