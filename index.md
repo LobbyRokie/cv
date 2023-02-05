@@ -63,7 +63,6 @@ Business Analytics Team _(Sep 2016 - Jul 2017)_
 * **Process Improvement:** Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and saved 20 hours per month in reporting.
 * **Financial Reporting:** Led profitability analysis and automated financial reports for 12 units in the lending department.
 * **Budget Modeling:** Created budget model that factored historical data from the past 5 years to strive for <10% variance between actual and budget.
-
 <br><br>
 
 **ACCOUNTING SUMMER INTERN @ [Big Brothers Big Sisters](https://www.bbbs.org/)** <br>
@@ -76,14 +75,12 @@ _(May 2013 - Aug 2013)_
 * Enhanced the internal knowledge center by 60% through the addition of case studies and doubled the size of the case analyst team within 4 months.
 * Revamped the company's website UI with a more user-friendly design using WordPress, resulting in a 15% boost in web traffic.
 * Advocated Corporate Social Responsibility and produced educational materials to help companies implement CSR practices.
-
 <br><br>
 
 **FINANCIAL SERVICE ASSOCIATE @ [World Financial Group](https://www.worldfinancialgroup.com/)** <br>
 _(Dec 2011 - Aug 2012)_
 * Utilized diversification strategies to minimize risks and achieve a targeted return on investment (ROI) of over 6% for clients.
 * Collaborated with team to deliver informative seminars and workshops aimed at educating clients and prospects on financial management.
-
 <br><br>
 
 
