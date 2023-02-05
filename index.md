@@ -59,29 +59,31 @@ Technical Consulting Team _(Jul 2017 - Jul 2019)_
 
 **BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
 Business Analytics Team _(Sep 2016 - Jul 2017)_
-* **Data Analytics:** Developed sales and marketing metrics and scorecards that evaluated and recommended the most reliable broker partners to work with based on the quality of all historical leads, which reduced average lead duration time in pipeline by 30% and increased conversion rate by 18%.
-* **Business Process Improvement:** Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and reduced overall labor from 24 to 4 hours per month.
-* **Financial Reporting:** Collected financial data, conducted profitability analysis, and built automation dashboards for 12 branches for the executives.
-* **Budget Modeling:** Created budget model that factored historical data over the past 5 years to strive for <10% var. between actual and budget.
+* Data Analytics: Developed sales KPIs and performance metrics that evaluated and recommended the most reliable broker partners to work with based on the quality of all historical leads, which reduced average lead duration in pipelines by 30% and increased conversion rate by 18%.
+* Process Improvement: Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and saved 20 hours per month in reporting.
+* Financial Reporting: Led profitability analysis and automated financial reports for 12 units in the lending department.
+* Budget Modeling: Created budget model that factored historical data from the past 5 years to strive for <10% variance between actual and budget.
+
 <br><br>
 
 **ACCOUNTING SUMMER INTERN @ [Big Brothers Big Sisters](https://www.bbbs.org/)** <br>
 _(Jul 2014 - Nov 2014)_
-* **General Accounting:** Assisted the Director of Finance in A/P, A/R, reconciliation, budgeting, forecasting, reporting, and financial analysis.
+* Assisted the Director of Finance in a comprehensive range of general accounting tasks, including accounts payable and receivable, reconciliation, budgeting and forecasting, financial reporting and analysis.
 <br><br>
 
 **CASE CENTER MANAGER @ [InnoCSR](https://www.innocsr.com/)** <br>
 _(May 2013 - Aug 2013)_
-* **Case Management:** Increased the internal knowledge database by 60% in case studies and doubled the size of the case analyst team in 4 months.
-* **Web Design:** Upgraded the company website UI with more user-friendly design using WordPress, resulting 15% increase in web traffic.
-* **Corporate Social Responsibility(CSR):** Advocated CSR and produced educational materials to help companies implement CSR practices.
+* Enhanced the internal knowledge center by 60% through the addition of case studies and doubled the size of the case analyst team within 4 months.
+* Revamped the company's website UI with a more user-friendly design using WordPress, resulting in a 15% boost in web traffic.
+* Advocated Corporate Social Responsibility and produced educational materials to help companies implement CSR practices.
 
 <br><br>
 
 **FINANCIAL SERVICE ASSOCIATE @ [World Financial Group](https://www.worldfinancialgroup.com/)** <br>
 _(Dec 2011 - Aug 2012)_
-* **Investment Management:** Helped clients develop diversified financial portfolios to reduce overall risks while striving for >6% ROI.
-* **Financial Education:** Assisted the team in conducting financial educational seminars and workshops for clients and prospects.
+* Utilized diversification strategies to minimize risks and achieve a targeted return on investment (ROI) of over 6% for clients.
+* Collaborated with team to deliver informative seminars and workshops aimed at educating clients and prospects on financial management.
+
 <br><br>
 
 
