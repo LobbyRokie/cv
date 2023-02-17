@@ -14,16 +14,16 @@ Information Systems/Business Analytics Major & Math Minor
 [<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br><br>
 
 ## 🍄 About Me:
-I'm a Business Intelligence Developer and a data fanatic with 6+ years of experience in end-to-end analytics solutions, including data mining, SQL development, ETL process, visualization development, statistical analysis, and predictive modeling. 
+I'm a Business Intelligence Developer and a data fanatic with 6+ years of experience in developing end-to-end business analytics solutions, including data mining, SQL development, ETL, data visualization, statistical analysis, and predictive modeling, with a proven track record of discovering potential issues and opportunities, delivering data-driven insights, and making strategic recommendations that improved process efficiency, reduced costs, increased revenue, and enhanced overall business performance. 
 
 
 #### Things make me 🙂:
-* Discovery of hidden wants and needs behind data 🗝️
-* Data integrity and data reliability.
-* Intuitive and elegant data visualization.
-* Intelligent data-driven solutions and strategic decisions.
-* Make my end users 😃.
-* Lean Method in work and life!
+* 💡 Discovery of hidden wants and needs behind data.
+* 🛡️ Data integrity and data reliability.
+* 📊 Intuitive and elegant data visualization.
+* 🕕 Lean and efficient business processes. 
+* 💲  Reduce costs and increase revenue.
+* 😃 Make my end users smile.
 
 #### Things make me 😕:
 * Data ambiguity, data discontinuity, and data distortion.
