@@ -45,41 +45,41 @@ Business & Financial Planning Team _(Sep 2019 - Present)_
 * **Business Intelligence:** Revolutionized, automated, and streamlined business reporting processes by establishing new robust, systematic, sustainable, and scalable automation dashboards that reside on 20+ workspaces and apps that served 5 business units and 40+ audiences from executives to analysts. Built and maintained intuitive and interactive Power BI reports and services that saved 30 hours and thousands of dollars per week in operation.
 * **Analytics Solution:** Developed sophisticated end-to-end analytics solutions, involving SQL development, ETL process, data modeling, statistical analysis and automation dashboard, which generated visibility and insight, identified and interpreted trends and patterns, made strategic recommendations to help management monitor business processes and make strategic decisions, resulting 15-25% improved operational efficiencies and 18-30% reduced expenditures in multiple operational areas, including budgeting, staffing, project costing and project management.
 * **Lean Method and Improvement:** Incorporated Lean methods in daily management and report building, which helped improve report reliability and minimize on-going maintenance, resulting 20% reduction in production incident volume and 25% decrease in overall system downtime.
-* **User Support:** Troubleshot, established countermeasures and provided timely resolutions for end users, usually within a turnaround time of 48 hrs.
-* **Mentorship:** Shared knowledge and provided trainings to other peers and interns in the organization as a recognized BI expert.
+* **Maintenance and Support:** Troubleshot end-user issues, established effective countermeasures, and provided timely resolutions within 48 hours.
+* **Mentorship:** Mentored analyst interns on the team and shared knowledge to other developers in BI weekly meetings, promoting skill development.
 <br><br>
 
 **PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
 Technical Consulting Team _(Jul 2017 - Jul 2019)_
-* **Data Analysis:** Led complex strategic projects and conducted in-depth analyses for service utilization to interpret consumer behaviors and drive insight and alignment and communicated business-critical information and provided strategic recommendations to the CEO and the executive leadership to strive for improved service quality, increased customer satisfaction, and higher retention rate.
-* **System Implementation:** Conducted requirement analysis, process documentation, and ETL process to integrate a new CRM system that enabled the team to serve 18% more customers, reduced the average support ticket duration by 13%, and increased customer satisfaction by 15%.
-* **Consulting Service:** Built customized features and functionalities embedded in the loan software with SQL and VBScript for business clients. 
-* **Knowledge Leverage:** Produced self-help materials in the company knowledge base center for business clients and internal employee training.
+* **Data Analysis:** Led a strategic analytics initiative to analyze consumer behavior, enhance service utilization, and present strategic recommendations the CEO and senior leadership. Projections indicate a 15% decrease in support costs and an 8% boost in customer retention.
+* **System Integration:** Gathered business requirements, oversaw the data transfer ETL process, and integrated a 3rd-party customer support system that enabled the team to serve 18% more customers, reduced the average support ticket time by 13%, and increased customer satisfaction by 15%.
+* **Consulting Service:** Built and embedded customized features and functionalities in the loan software using SQL and VBScript for business clients. 
+* **Training & Knowledge Transfer:** Created self-help materials in the knowledge base center for business clients and internal employee training.
 <br><br>
 
 **BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
 Business Analytics Team _(Sep 2016 - Jul 2017)_
-* **Data Analytics:** Developed sales KPIs and performance metrics that evaluated and recommended the most reliable broker partners to work with based on the quality of all historical leads, which reduced average lead duration in pipelines by 30% and increased conversion rate by 18%.
-* **Process Improvement:** Designed incentive compensation system and built automation dashboards to populate real-time commission data that replaced manual spreadsheet calculation for multiple sales teams and saved 20 hours per month in reporting.
-* **Financial Reporting:** Led profitability analysis and automated financial reports for 12 units in the lending department.
-* **Budget Modeling:** Created budget model that factored historical data from the past 5 years to strive for <10% variance between actual and budget.
+* **Data Analytics:** Created sales KPIs, KRIs, OKRs, key metrics, and automated reports to assess and recommend broker partners based on historical lead quality, resulting in a 30% reduction in lead duration and an 18% increase in conversion rates.
+* **Commission Analyitcs:** Created a sales incentive and compensation system and automated the population of real-time sales and commission data through dashboards. This eliminated the need for manual reporting across multiple sales teams and saved 20 hours per month.
+* **Financial Reporting & Analysis:** Gathered financial data, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
+* **Budget Modeling:** Developed a budget model using historical data from the past 5 years, aiming to achieve <10% variance between actual and budget.
 <br><br>
 
 **ACCOUNTING SUMMER INTERN @ [Big Brothers Big Sisters](https://www.bbbs.org/)** <br>
 _(Jul 2014 - Nov 2014)_
-* Assisted the Director of Finance in a comprehensive range of general accounting tasks, including accounts payable and receivable, reconciliation, budgeting and forecasting, financial reporting and analysis.
+* Assisted the Director of Finance in various accounting tasks, such as account payable and receivable, reconciliation, budgeting and forecasting, as well as financial reporting and analysis.
 <br><br>
 
 **CASE CENTER MANAGER @ [InnoCSR](https://www.innocsr.com/)** <br>
 _(May 2013 - Aug 2013)_
 * Enhanced the internal knowledge center by 60% through the addition of case studies and doubled the size of the case analyst team within 4 months.
-* Revamped the company's website UI with a more user-friendly design using WordPress, resulting in a 15% boost in web traffic.
+* Revamped the company's website with a more user-friendly design using WordPress, resulting in a 15% boost in web traffic.
 * Advocated Corporate Social Responsibility and produced educational materials to help companies implement CSR practices.
 <br><br>
 
 **FINANCIAL SERVICE ASSOCIATE @ [World Financial Group](https://www.worldfinancialgroup.com/)** <br>
 _(Dec 2011 - Aug 2012)_
-* Utilized diversification strategies to minimize risks and achieve a targeted return on investment (ROI) of over 6% for clients.
+* Implemented diversification strategies to minimize risk and aim for a targeted annual ROI of 6% for clients.
 * Collaborated with team to deliver informative seminars and workshops aimed at educating clients and prospects on financial management.
 <br><br>
 
