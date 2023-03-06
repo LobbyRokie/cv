@@ -42,10 +42,12 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 ## 💼 EXPERIENCE
 **SENIOR BUSINESS SYSTEMS ANALYST @ [UC Santa Barbara](https://www.ucsb.edu/)** <br>
 Business & Financial Planning Team _(Sep 2019 - Present)_
-* **Business Intelligence:** Revolutionized, automated, and streamlined business reporting processes by establishing new robust, systematic, sustainable, and scalable automation dashboards that reside on 20+ workspaces and apps that served 5 business units and 40+ audiences from executives to analysts. Built and maintained intuitive and interactive Power BI reports and services that saved 30 hours and thousands of dollars per week in operation.
-* **Analytics Solution:** Developed sophisticated end-to-end analytics solutions, involving SQL development, ETL process, data modeling, statistical analysis and automation dashboard, which generated visibility and insight, identified and interpreted trends and patterns, made strategic recommendations to help management monitor business processes and make strategic decisions, resulting 15-25% improved operational efficiencies and 18-30% reduced expenditures in multiple operational areas, including budgeting, staffing, project costing and project management.
-* **Lean Method and Improvement:** Incorporated Lean methods in daily management and report building, which helped improve report reliability and minimize on-going maintenance, resulting 20% reduction in production incident volume and 25% decrease in overall system downtime.
+* **Business Intelligence:** Revolutionized and automated the department's reporting process by replacing outdated technologies and manual reporting procedures with a sustainable and scalable analytical framework. Built and owned 20+ workspaces and apps to support 5 business units and over 40 end users from directors to managers, resulting 120 hours and thousands of dollars saved per month in reporting.
+* **Data Analytics:** Developed advanced end-to-end data analytics solutions, including data collection, extraction, manipulation, modeling, analysis and reporting, which strengthened data pipeline, translated data into actionable insights, and provided strategic recommendations to senior leadership, resulting in 15-25% improved operational performance and 18-30% reduced overhead costs across finance, operations, and project management.
+* **Data Visualization Development:** Developed innovative reports and dashboards with complex DAX, Power Query, drill-through, role-level security, and paginated report, delivering elegant, interactive, and story-driven data visualizations and receiving widespread recognition in the department.
+* **Process Excellence:** Adopted Lean and Agile methodologies in BI development to improve quality, minimize maintenance, and increase scalability.
 * **Maintenance and Support:** Troubleshot end-user issues, established effective countermeasures, and provided timely resolutions within 48 hours.
+* **Governance & Standard:** Established report development standards and data governance best practices for data analytics within the department.
 * **Mentorship:** Mentored analyst interns on the team and shared knowledge to other developers in BI weekly meetings, promoting skill development.
 <br><br>
 
@@ -59,10 +61,10 @@ Technical Consulting Team _(Jul 2017 - Jul 2019)_
 
 **BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
 Business Analytics Team _(Sep 2016 - Jul 2017)_
-* **Data Analytics:** Created sales KPIs, KRIs, OKRs, key metrics, and automated reports to assess and recommend broker partners based on historical lead quality, resulting in a 30% reduction in lead duration and an 18% increase in conversion rates.
-* **Commission Analyitcs:** Created a sales incentive and compensation system and automated the population of real-time sales and commission data through dashboards. This eliminated the need for manual reporting across multiple sales teams and saved 20 hours per month.
-* **Financial Reporting & Analysis:** Gathered financial data, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
-* **Budget Modeling:** Developed a budget model using historical data from the past 5 years, aiming to achieve <10% variance between actual and budget.
+* **Strategic Analysis:** Created sales KPIs, KRIs, OKRs, key business metrics, and automated dashboards to filter and recommend the most reliable broker partners to work with based on historical lead qualities, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
+* **Data Analytics:** Designed an incentive compensation system and built automation dashboards to populate real-time commission data, which replaced manual spreadsheet calculation and reporting for multiple sales teams and saved 20 hours per month.
+* **Financial Analysis:** Developed P&L model, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
+* **Budget Modeling:** Created budget models that factored historical data from the past 5 years, striving for <10% variance between actual and budget.
 <br><br>
 
 **ACCOUNTING SUMMER INTERN @ [Big Brothers Big Sisters](https://www.bbbs.org/)** <br>
