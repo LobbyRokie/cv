@@ -40,64 +40,67 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 <br><br>
 
 ## 💼 EXPERIENCE
-**SENIOR BUSINESS SYSTEMS ANALYST @ [UC Santa Barbara](https://www.ucsb.edu/)** <br>
-Business & Financial Planning Team _(Sep 2019 - Present)_
+**Sr. Business Systems Analyst, Business Intelligence** <br>
+[UC Santa Barbara](https://www.ucsb.edu/) _(Sep 2019 - Present)_
 * **Business Intelligence:** Revolutionized and automated the department's reporting process by replacing outdated technologies and manual reporting procedures with a sustainable and scalable analytical framework. Built and owned 20+ workspaces and apps to support 5 business units and over 40 end users from directors to managers, resulting 120 hours and thousands of dollars saved per month in reporting.
 * **Data Analytics:** Developed advanced end-to-end data analytics solutions, including data collection, extraction, manipulation, modeling, analysis and reporting, which strengthened data pipeline, translated data into actionable insights, and provided strategic recommendations to senior leadership, resulting in 15-25% improved operational performance and 18-30% reduced overhead costs across finance, operations, and project management.
-* **Data Visualization Development:** Developed innovative reports and dashboards with complex DAX, Power Query, drill-through, role-level security, and paginated report, delivering elegant, interactive, and story-driven data visualizations and receiving widespread recognition in the department.
+* **Data Visualization Development:** Developed storytelling reports and dashboards with complex DAX, Power Query, drill-through, role-level security, and paginated report, delivering elegant, intuitive, and interactive visualizations and receiving widespread recognition in the department.
 * **Process Excellence:** Adopted Lean and Agile methodologies in BI development to improve quality, minimize maintenance, and increase scalability.
 * **Maintenance and Support:** Troubleshot end-user issues, established effective countermeasures, and provided timely resolutions within 48 hours.
 * **Governance & Standard:** Established report development standards and data governance best practices for data analytics within the department.
 * **Mentorship:** Mentored analyst interns on the team and shared knowledge to other developers in BI weekly meetings, promoting skill development.
 <br><br>
 
-**PROGRAMMER ANALYST @ [Nortridge Software](https://www.nortridge.com/)** <br>
-Technical Consulting Team _(Jul 2017 - Jul 2019)_
+**Programmer Analyst** <br>
+[Nortridge Software](https://www.nortridge.com/) _(Jul 2017 - Jul 2019)_ 
 * **Data Analysis:** Led a strategic analytics initiative to analyze consumer behavior, enhance service utilization, and present strategic recommendations the CEO and senior leadership. Projections indicate a 15% decrease in support costs and an 8% boost in customer retention.
 * **System Integration:** Gathered business requirements, oversaw the data transfer ETL process, and integrated a 3rd-party customer support system that enabled the team to serve 18% more customers, reduced the average support ticket time by 13%, and increased customer satisfaction by 15%.
 * **Consulting Service:** Built and embedded customized features and functionalities in the loan software using SQL and VBScript for business clients. 
 * **Training & Knowledge Transfer:** Created self-help materials in the knowledge base center for business clients and internal employee training.
 <br><br>
 
-**BUSINESS & TECHNOLOGY ANALYST @ [AXOS Bank](https://www.axosbank.com/)** <br>
-Business Analytics Team _(Sep 2016 - Jul 2017)_
+**Business & Technology Analyst, Data Analytics** <br>
+[AXOS Bank](https://www.axosbank.com/) _(Sep 2016 - Jul 2017)_
 * **Strategic Analysis:** Created sales KPIs, KRIs, OKRs, key business metrics, and automated dashboards to filter and recommend the most reliable broker partners to work with based on historical lead qualities, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
 * **Data Analytics:** Designed an incentive compensation system and built automation dashboards to populate real-time commission data, which replaced manual spreadsheet calculation and reporting for multiple sales teams and saved 20 hours per month.
 * **Financial Analysis:** Developed P&L model, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
 * **Budget Modeling:** Created budget models that factored historical data from the past 5 years, striving for <10% variance between actual and budget.
 <br><br>
 
-**ACCOUNTING SUMMER INTERN @ [Big Brothers Big Sisters](https://www.bbbs.org/)** <br>
-_(Jul 2014 - Nov 2014)_
+**Accounting Intern** <br>
+[Big Brothers Big Sisters](https://www.bbbs.org/) _(Jul 2014 - Nov 2014)_
 * Assisted the Director of Finance in various accounting tasks, such as account payable and receivable, reconciliation, budgeting and forecasting, as well as financial reporting and analysis.
 <br><br>
 
-**CASE CENTER MANAGER @ [InnoCSR](https://www.innocsr.com/)** <br>
-_(May 2013 - Aug 2013)_
+**Case Center Manager** <br>
+[InnoCSR](https://www.innocsr.com/) _(May 2013 - Aug 2013)_
 * Enhanced the internal knowledge center by 60% through the addition of case studies and doubled the size of the case analyst team within 4 months.
 * Revamped the company's website with a more user-friendly design using WordPress, resulting in a 15% boost in web traffic.
 * Advocated Corporate Social Responsibility and produced educational materials to help companies implement CSR practices.
 <br><br>
 
-**FINANCIAL SERVICE ASSOCIATE @ [World Financial Group](https://www.worldfinancialgroup.com/)** <br>
-_(Dec 2011 - Aug 2012)_
+**Financial Service Associate** <br>
+[World Financial Group](https://www.worldfinancialgroup.com/) _(Dec 2011 - Aug 2012)_
 * Implemented diversification strategies to minimize risk and aim for a targeted annual ROI of 6% for clients.
 * Collaborated with team to deliver informative seminars and workshops aimed at educating clients and prospects on financial management.
 <br><br>
 
 
 ## 🎓 EDUCATION
-**[SAN DIEGO STATE UNIVERSITY](https://www.sdsu.edu/)** <br>
-**M.S. Information Systems** (In-major GPA: 3.67) - _Class of 2016_ <br>
-(Specialization in **Business Analytics**)
+**M.S. Information Systems**, specialization in **Data Analytics**, major GPA 3.7 <br>
+[San Diego State University](https://www.sdsu.edu/) _(2013 - 2016)_ <br>
 
-**[SAN DIEGO COMMUNITY COLLEGE](https://www.sdccd.edu/)** <br>
-Curriculum: **Info Sys, C++, Java.** (Cumulative GPA: 4.00) - _Fall 2014_ <br>
+**Computer Science**, GPA 4.0 <br>
+[San Diego City College](https://www.sdccd.edu/) _(2014)_ <br>
 
-**[UNIVERSITY OF CALIFORNIA, SAN DIEGO](https://www.ucsd.edu/)** <br>
-**B.S. Management Science** - _Class of 2011_ <br>
-(Minor in **Mathematics**)
+**B.S. Management Science/Economics**, minor in **Mathematics** <br>
+[UC San Diego](https://www.ucsd.edu/) _(2009 - 2011)_ <br>
+
+**A.S. Economics**, minor in **Accounting** <br>
+[De Anza College](https://www.deanza.edu/) _(2007 - 2009)_ <br>
+
 <br><br>
+
 
 
 ## 📂 ACADEMIC PROJECTS 
