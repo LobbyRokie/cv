@@ -22,7 +22,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 * 🔍 Discover the hidden wants and needs behind data.
 * 💡 Deliver data-driven insights and enhance strategic decision-making.
 * 📊 Develop automated and Storytelling visualizations.
-* 🕕 Make business operations as lean and efficienct as possible.
+* 🕕 Make business operations as lean and efficient as possible.
 * 💲  Reduce costs, boost revenue, and enhance overall business performance.
 * 😃 Make my stakeholders smile.
 
@@ -33,10 +33,13 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 <br>
 
-## 🛠️ TOOL BOX
-**Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, MS Excel/VBA Macro, XLMiner. <br>
-**Programming:** 	        SQL Server, T-SQL, R, Python, Java, C++, VBScript, MS Access/VBA Macro, XML, JSON. <br>
+## 🛠️ SUMMARY OF SKILLS
+**Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, XLMiner, Microsoft Excel, Access. <br>
+**Programming:** 	        SQL, R, Python, Java, C++, DAX, Power Query, M Query, MATLAB, Visual Basic, VBA, XML. <br>
 **Other Tools:** 		      Azure, AWS, Salesforce, SAP, Oracle Financials, PeopleSoft, Microsoft Office, SharePoint, Visual Studio, Smartsheet, Visio, Lucidchart, Jira, Confluence, QuickBooks. <br>
+**BI Functions:**	        Data Mining, ETL, Data Modeling, Data Warehousing, Data Visualization, Dashboards, Ad-hoc Analysis/Reporting, Statistical Analysis. <br>
+**Data Science:**	        Hypothesis Testing, A/B Testing, Inferential Statistics, Time Series Analysis, Multivariate Analysis, Regression Modeling, Predictive Modeling <br>
+
 <br><br>
 
 ## 💼 EXPERIENCE
