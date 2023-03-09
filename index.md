@@ -3,9 +3,10 @@
 
 <!-- BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS/BUSINESS ANALYTICS MAJOR & MATH MINOR -->
 
-Business Intelligence Developer **⋅** Certified Data Science Associate **⋅** <br>
-Information Systems/Data Analytics Major & Math Minor
-<br>
+**Business Intelligence Developer** <br>
+**Certified Data Science Associate** <br>
+**Master of Science, Information Systems/Data Analytics** <br>
+**Bachelor of Science, Management Science/Economics** <br>
 
 
 [<img src="images/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
@@ -18,18 +19,17 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 
 #### Things make me 🙂:
-* 💡 Discovery of hidden wants and needs behind data.
-* 🛡️ Data integrity and data reliability.
-* 📊 Intuitive and elegant data visualization.
-* 🕕 Lean and efficient business processes. 
-* 💲  Reduce costs and increase revenue.
-* 😃 Make my end users smile.
+* 🔍 Discover the hidden wants and needs behind data.
+* 💡 Deliver data-driven insights and enhance strategic decision-making.
+* 📊 Develop automated and Storytelling visualizations.
+* 🕕 Make business operations as lean and efficienct as possible.
+* 💲  Reduce costs, boost revenue, and enhance overall business performance.
+* 😃 Make my stakeholders smile.
 
 #### Things make me 😕:
 * Data ambiguity, data discontinuity, and data distortion.
-* Poor and incomplete data collection.
-* Data source residing in Excel sheet...
-* Manual and paper reports.
+* Insufficient and incomplete data mining.
+* Manual reporting.
 
 <br>
 
