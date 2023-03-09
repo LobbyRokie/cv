@@ -4,7 +4,7 @@
 <!-- BUSINESS ANALYST - CERTIFIED DATA SCIENCE ASSOCIATE - INFORMATION SYSTEMS/BUSINESS ANALYTICS MAJOR & MATH MINOR -->
 
 Business Intelligence Developer **⋅** Certified Data Science Associate **⋅** <br>
-Information Systems/Business Analytics Major & Math Minor
+Information Systems/Data Analytics Major & Math Minor
 <br>
 
 
