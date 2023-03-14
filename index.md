@@ -34,7 +34,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 <br>
 
 ## 🛠️ SUMMARY OF SKILLS
-**Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, XLMiner, Microsoft Excel, Access. <br>
+**Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, Snowflake, SSMS, SSIS, XLMiner, Microsoft Access, Excel. <br>
 **Programming:** 	        SQL, R, Python, Java, C++, DAX, Power Query, M Query, MATLAB, Visual Basic, VBA, XML. <br>
 **Other Tools:** 		      Azure, AWS, Salesforce, SAP, Oracle Financials, PeopleSoft, Microsoft Office, SharePoint, Visual Studio, Smartsheet, Visio, Lucidchart, Jira, Confluence, QuickBooks. <br>
 **BI Functions:**	        Data Mining, ETL, Data Modeling, Data Warehousing, Data Visualization, Dashboards, Ad-hoc Analysis/Reporting, Statistical Analysis. <br>
