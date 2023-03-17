@@ -5,8 +5,9 @@
 
 **Business Intelligence Developer** <br>
 **Certified Data Science Associate** <br>
-**Master of Science, Information Systems/Data Analytics** <br>
-**Bachelor of Science, Management Science/Economics** <br>
+**Certified Six Sigma Yellow Belt** <br>
+**Master of Science, Information Systems/Business Analytics** <br>
+**Bachelor of Science, Management Science/Economics**, Minor in **Math** <br>
 
 
 [<img src="images/Gmail Icon new.png" width="20">](mailto:rogerchen0418@gmail.com) &nbsp;
@@ -14,7 +15,7 @@
 [<img src="images/GitHub icon.png" width="20">](https://github.com/LobbyRokie) &nbsp;
 [<img src="images/Linkedin icon.png" width="20">](https://www.linkedin.com/in/rogerchen0418/) <br><br>
 
-## 🍄 About Me:
+## 🥑 ABOUT ME:
 I'm a Business Intelligence Developer and a data fanatic with 6+ years of experience in developing end-to-end business analytics solutions, including data mining, SQL development, ETL, data visualization, statistical analysis, and predictive modeling, with a proven track record of discovering potential issues and opportunities, delivering data-driven insights, and making strategic recommendations that improved process efficiency, reduced costs, increased revenue, and enhanced overall business performance. 
 
 
@@ -33,7 +34,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 <br>
 
-## 🛠️ SUMMARY OF SKILLS
+## 🛠️ TOOL BOX
 **Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, Snowflake, SSMS, SSIS, XLMiner, Microsoft Access, Excel. <br>
 **Programming:** 	        SQL, R, Python, Java, C++, DAX, Power Query, M Query, MATLAB, Visual Basic, VBA, XML. <br>
 **Other Tools:** 		      Azure, AWS, Salesforce, SAP, Oracle Financials, PeopleSoft, Microsoft Office, SharePoint, Visual Studio, Smartsheet, Visio, Lucidchart, Jira, Confluence, QuickBooks. <br>
@@ -47,7 +48,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 [UC Santa Barbara](https://www.ucsb.edu/) _(Sep 2019 - Present)_
 * **Business Intelligence:** Revolutionized and automated the department's reporting process by replacing outdated technologies and manual reporting procedures with a sustainable and scalable analytical framework. Built and owned 20+ workspaces and apps to support 5 business units and over 40 end users from directors to managers, resulting 120 hours and thousands of dollars saved per month in reporting.
 * **Data Analytics:** Developed advanced end-to-end data analytics solutions, including data collection, extraction, manipulation, modeling, analysis and reporting, which strengthened data pipeline, translated data into actionable insights, and provided strategic recommendations to senior leadership, resulting in 15-25% improved operational performance and 18-30% reduced overhead costs across finance, operations, and project management.
-* **Data Visualization Development:** Developed storytelling reports and dashboards with complex DAX, Power Query, drill-through, role-level security, and paginated report, delivering elegant, intuitive, and interactive visualizations and receiving widespread recognition in the department.
+* **Data Visualization:** Developed storytelling reports and dashboards with complex DAX, Power Query, drill-through, role-level security, and paginated report, delivering elegant, intuitive, and interactive visualizations and receiving widespread recognition in the department.
 * **Process Excellence:** Adopted Lean and Agile methodologies in BI development to improve quality, minimize maintenance, and increase scalability.
 * **Maintenance and Support:** Troubleshot end-user issues, established effective countermeasures, and provided timely resolutions within 48 hours.
 * **Governance & Standard:** Established report development standards and data governance best practices for data analytics within the department.
@@ -90,7 +91,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 
 ## 🎓 EDUCATION
-**M.S. Information Systems**, specialization in **Data Analytics**, major GPA 3.7 <br>
+**M.S. Information Systems**, specialization in **Business Analytics**, major GPA 3.7 <br>
 [San Diego State University](https://www.sdsu.edu/) _(2013 - 2016)_ <br>
 
 **Computer Science**, GPA 4.0 <br>
