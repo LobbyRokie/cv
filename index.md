@@ -65,8 +65,8 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 **Business & Technology Analyst, Data Analytics** <br>
 [AXOS Bank](https://www.axosbank.com/) _(Sep 2016 - Jul 2017)_
-* **Strategic Analysis:** Created sales KPIs, KRIs, OKRs, key business metrics, and automated dashboards to filter and recommend the most reliable broker partners to work with based on historical lead qualities, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
-* **Data Analytics:** Designed an incentive compensation system and built automation dashboards to populate real-time commission data, which replaced manual spreadsheet calculation and reporting for multiple sales teams and saved 20 hours per month.
+* **Risk Analysis:** Created KPIs, KRIs, OKRs, key metrics (CAC, LTV, AAR, etc.), and scorecards to recommend the most reliable broker partners to work with and reduce default risk for the TPO team, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
+* **Dashboard Reporting:** Designed, developed, and implemented automation dashboards to populate real-time sales and commission data, replacing manual spreadsheet calculation and reporting and saved 20 hours per month.
 * **Financial Analysis:** Developed P&L model, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
 * **Budget Modeling:** Created budget models that factored historical data from the past 5 years, striving for <10% variance between actual and budget.
 <br><br>
