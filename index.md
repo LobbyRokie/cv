@@ -57,7 +57,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 **Programmer Analyst** <br>
 [Nortridge Software](https://www.nortridge.com/) _(Jul 2017 - Jul 2019)_ 
-* **Data Analysis:** Led a strategic analytics initiative to analyze consumer behavior, enhance service utilization, and present strategic recommendations the CEO and senior leadership. Projections indicate a 15% decrease in support costs and an 8% boost in customer retention.
+* **Service & Pricing Analytics:** Led a strategic initiative to remodel the service pricing structure by analyzing customer behaviors and forecasting future growth, projecting an 8% boost in customer retention rate, a 15% reduction in service costs, and a 6% increase in ROI.
 * **System Integration:** Gathered business requirements, oversaw the data transfer ETL process, and integrated a 3rd-party customer support system that enabled the team to serve 18% more customers, reduced the average support ticket time by 13%, and increased customer satisfaction by 15%.
 * **Consulting Service:** Built and embedded customized features and functionalities in the loan software using SQL and VBScript for business clients. 
 * **Training & Knowledge Transfer:** Created self-help materials in the knowledge base center for business clients and internal employee training.
@@ -65,28 +65,28 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 **Business & Technology Analyst, Data Analytics** <br>
 [AXOS Bank](https://www.axosbank.com/) _(Sep 2016 - Jul 2017)_
-* **Risk Analysis:** Created KPIs, KRIs, OKRs, key metrics (CAC, LTV, AAR, etc.), and scorecards to recommend the most reliable broker partners to work with and reduce default risk for the TPO team, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
-* **Dashboard Reporting:** Designed, developed, and implemented automation dashboards to populate real-time sales and commission data, replacing manual spreadsheet calculation and reporting and saved 20 hours per month.
-* **Financial Analysis:** Developed P&L model, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
+* **Credit & Risk Analytics:** Created KPIs, KRIs, key metrics (CAC, LTV, AAR, etc.), and scorecards to recommend the most reliable broker partners to work with and reduce default risk for the TPO team, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
+* **Sales & Commission Analytics:** Designed, developed, and implemented automation dashboards to populate real-time sales and commission data, replacing manual spreadsheet calculation and reporting and saved 20 hours per month.
+* **Financial Analytics:** Developed P&L model, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
 * **Budget Modeling:** Created budget models that factored historical data from the past 5 years, striving for <10% variance between actual and budget.
 <br><br>
 
 **Accounting Intern** <br>
 [Big Brothers Big Sisters](https://www.bbbs.org/) _(Jul 2014 - Nov 2014)_
-* Assisted the Director of Finance in various accounting tasks, such as account payable and receivable, reconciliation, budgeting and forecasting, as well as financial reporting and analysis.
+* **General Accounting:** Assisted the Director of Finance in financial analysis, financial reporting, budgeting, forecasting, A/P, A/R, and reconciliation.
 <br><br>
 
 **Case Center Manager** <br>
 [InnoCSR](https://www.innocsr.com/) _(May 2013 - Aug 2013)_
-* Enhanced the internal knowledge center by 60% through the addition of case studies and doubled the size of the case analyst team within 4 months.
-* Revamped the company's website with a more user-friendly design using WordPress, resulting in a 15% boost in web traffic.
-* Advocated Corporate Social Responsibility and produced educational materials to help companies implement CSR practices.
+* **Corporate Social Responsibility:** Advocated CSR and produced educational materials to help companies implement CSR practices.
+* **Web Design:** Revamped the company's website with a more user-friendly design using WordPress, resulting in a 15% boost in web traffic.
+* **Case Management:** Enhanced the internal knowledge center by 60% through the addition of case studies and doubled the size of the case analyst team within 4 months.
 <br><br>
 
 **Financial Service Associate** <br>
 [World Financial Group](https://www.worldfinancialgroup.com/) _(Dec 2011 - Aug 2012)_
-* Implemented diversification strategies to minimize risk and aim for a targeted annual ROI of 6% for clients.
-* Collaborated with team to deliver informative seminars and workshops aimed at educating clients and prospects on financial management.
+* **Financial Services:** Implemented diversification strategies to minimize risk and aim for a targeted annual ROI of 6% for clients.
+* **Financial Education:** Collaborated with team to deliver informative seminars and workshops aimed at educating clients and prospects on financial management.
 <br><br>
 
 
