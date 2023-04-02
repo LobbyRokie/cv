@@ -46,8 +46,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 ## 💼 EXPERIENCE
 **Sr. Business Systems Analyst, Business Intelligence** <br>
 [UC Santa Barbara](https://www.ucsb.edu/) _(Sep 2019 - Present)_
-* **Business Intelligence:** Revolutionized and automated the department's reporting process by replacing outdated technologies and manual reporting procedures with a sustainable and scalable analytical framework. Built and owned 20+ workspaces and apps to support 5 business units and over 40 end users from directors to managers, resulting 120 hours and thousands of dollars saved per month in reporting.
-* **Data Analytics:** Developed advanced end-to-end data analytics solutions, including data collection, extraction, manipulation, modeling, analysis and reporting, which strengthened data pipeline, translated data into actionable insights, and provided strategic recommendations to senior leadership, resulting in 15-25% improved operational performance and 18-30% reduced overhead costs across finance, operations, and project management.
+* **Business Intelligence:** Revolutionized and automated the department's reporting process with robust and scalable self-service BI solutions. Created and owned 20+ workspaces and apps to support 5 business units and over 40 end users, including AVC, CFO, directors, and managers. Designed, developed, and implemented end-to-end data analytics solutions, including data mining, data manipulation, data modeling, data analysis, and data reporting. Enhanced data pipelines, generated actionable insights, and provided data-driven recommendations to the executive team, improving process efficiency by 15-25% and saving 100-120 hours and thousands of dollars per month in multiple business operations.
 * **Data Visualization:** Developed storytelling reports and dashboards with complex DAX, Power Query, drill-through, role-level security, and paginated report, delivering elegant, intuitive, and interactive visualizations and receiving widespread recognition in the department.
 * **Process Excellence:** Adopted Lean and Agile methodologies in BI development to improve quality, minimize maintenance, and increase scalability.
 * **Maintenance and Support:** Troubleshot end-user issues, established effective countermeasures, and provided timely resolutions within 48 hours.
@@ -66,8 +65,8 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 **Business & Technology Analyst, Data Analytics** <br>
 [AXOS Bank](https://www.axosbank.com/) _(Sep 2016 - Jul 2017)_
 * **Credit & Risk Analytics:** Created KPIs, KRIs, key metrics (CAC, LTV, AAR, etc.), and scorecards to recommend the most reliable broker partners to work with and reduce default risk for the TPO team, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
-* **Sales & Commission Analytics:** Designed, developed, and implemented automation dashboards to populate real-time sales and commission data, replacing manual spreadsheet calculation and reporting and saved 20 hours per month.
-* **Financial Analytics:** Developed P&L model, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
+* **Sales & Commission Analytics:** Designed, developed, and implemented automation dashboards to populate real-time sales and generated commission data, replacing manual spreadsheet calculation and reporting and saving 20 hours per month.
+* **Financial Analytics:** Developed P&L models, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
 * **Budget Modeling:** Created budget models that factored historical data from the past 5 years, striving for <10% variance between actual and budget.
 <br><br>
 
@@ -239,5 +238,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+* **Data Analytics:** Developed advanced end-to-end data analytics solutions, including data collection, extraction, manipulation, modeling, analysis and reporting, which strengthened data pipeline, translated data into actionable insights, and provided strategic recommendations to senior leadership, resulting in 15-25% improved operational performance and 18-30% reduced overhead costs across finance, operations, and project management.
 -->
 
