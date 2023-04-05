@@ -56,7 +56,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 **Programmer Analyst** <br>
 [Nortridge Software](https://www.nortridge.com/) _(Jul 2017 - Jul 2019)_ 
-* **Service & Pricing Analytics:** Led a strategic initiative to remodel the service pricing structure by analyzing customer behaviors and forecasting future growth, projecting an 8% boost in customer retention rate, a 15% reduction in service costs, and a 6% increase in ROI.
+* **Service & Product Analytics:** Led a strategic initiative to enhance services and products by understanding customer behaviors and remodeling service pricing structure, projecting an 8% boost in customer retention rate, a 15% reduction in service costs, and a 6% increase in ROI.
 * **System Integration:** Gathered business requirements, oversaw the data transfer ETL process, and integrated a 3rd-party customer support system that enabled the team to serve 18% more customers, reduced the average support ticket time by 13%, and increased customer satisfaction by 15%.
 * **Consulting Service:** Built and embedded customized features and functionalities in the loan software using SQL and VBScript for business clients. 
 * **Training & Knowledge Transfer:** Created self-help materials in the knowledge base center for business clients and internal employee training.
