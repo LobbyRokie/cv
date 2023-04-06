@@ -56,7 +56,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 **Programmer Analyst** <br>
 [Nortridge Software](https://www.nortridge.com/) _(Jul 2017 - Jul 2019)_ 
-* **Service & Product Analytics:** Led a strategic initiative to enhance services and products by understanding customer behaviors and remodeling service pricing structure, projecting an 8% boost in customer retention rate, a 15% reduction in service costs, and a 6% increase in ROI.
+* **Service Analytics:** Led a strategic initiative to enhance customer support services and products by understanding customer behaviors and remodeling service pricing structure, projecting an 8% boost in customer retention rate, a 15% reduction in service costs, and a 6% increase in ROI.
 * **System Integration:** Gathered business requirements, oversaw the data transfer ETL process, and integrated a 3rd-party customer support system that enabled the team to serve 18% more customers, reduced the average support ticket time by 13%, and increased customer satisfaction by 15%.
 * **Consulting Service:** Built and embedded customized features and functionalities in the loan software using SQL and VBScript for business clients. 
 * **Training & Knowledge Transfer:** Created self-help materials in the knowledge base center for business clients and internal employee training.
@@ -64,7 +64,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 **Business & Technology Analyst, Data Analytics** <br>
 [AXOS Bank](https://www.axosbank.com/) _(Sep 2016 - Jul 2017)_
-* **Credit & Risk Analytics:** Created KPIs, KRIs, key metrics (CAC, LTV, AAR, etc.), and scorecards to recommend the most reliable broker partners to work with and reduce default risk for the TPO team, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
+* **Product Analytics:** Created KPIs, KRIs, key metrics (CAC, LTV, AAR, etc.), and scorecards to recommend the most reliable broker partners to work with and reduce default risk for the TPO team, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
 * **Sales & Commission Analytics:** Designed, developed, and implemented automation dashboards to populate real-time sales and generated commission data, replacing manual spreadsheet calculation and reporting and saving 20 hours per month.
 * **Financial Analytics:** Developed P&L models, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
 * **Budget Modeling:** Created budget models that factored historical data from the past 5 years, striving for <10% variance between actual and budget.
