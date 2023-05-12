@@ -35,9 +35,9 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 <br>
 
 ## 🛠️ TOOL BOX
-**Data Analytics:**       Tableau, Power BI, SSRS, MicroStrategy, SPSS, SAS Analytics, Google Analytics, FICO Analytics, Snowflake, SSMS, SSIS, XLMiner, Microsoft Access, Excel. <br>
-**Programming:** 	        SQL, R, Python, Java, C++, DAX, Power Query, M Query, MATLAB, Visual Basic, VBA, XML. <br>
-**Other Tools:** 		      Azure, AWS, Salesforce, SAP, Oracle Financials, PeopleSoft, Microsoft Office, SharePoint, Visual Studio, Smartsheet, Visio, Lucidchart, Jira, Confluence, QuickBooks. <br>
+**Data Analytics:**       Tableau, Power BI, MicroStrategy, SAS, SPSS, SSRS, SSMS, SSIS, AWS, Azure, Access, Excel, XLMiner, FICO Analytics, Google Analytics. <br>
+**Programming:** 	        SQL, R, Python, Java, C++, DAX, MDX, Power Query, M Query, MATLAB, Visual Basic, VBA, XML. <br>
+**Other Tools:** 		      Salesforce, SAP, Jira, Git, Visual Studio, Tabular Editor, DAX Studio, Smartsheet, SharePoint, PeopleSoft, Oracle Financials, QuickBooks, NLS. <br>
 **BI Functions:**	        Data Mining, ETL, Data Modeling, Data Warehousing, Data Visualization, Dashboards, Ad-hoc Analysis/Reporting, Statistical Analysis. <br>
 **Data Science:**	        Hypothesis Testing, A/B Testing, Inferential Statistics, Time Series Analysis, Multivariate Analysis, Regression Modeling, Predictive Modeling <br>
 
