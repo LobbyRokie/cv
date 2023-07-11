@@ -5,7 +5,8 @@
 
 **Business Intelligence Developer** <br>
 **Certified Data Science Associate** <br>
-**Certified Six Sigma Yellow Belt** <br>
+**Certified Six Sigma Yellow Belt 📒** <br>
+**Current Six Sigma Green Belt 📗 Participant** <br>
 **Master of Science, Information Systems/Business Analytics** <br>
 **Bachelor of Science, Management Science/Economics**, Minor in **Math** <br>
 
@@ -46,8 +47,10 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 ## 💼 EXPERIENCE
 **Sr. Business Systems Analyst, Business Intelligence** <br>
 [UC Santa Barbara](https://www.ucsb.edu/) _(Sep 2019 - Present)_
-* **Business Intelligence:** Revolutionized and transformed the department's reporting process with robust and scalable self-service BI solutions. Created and owned 20+ workspaces and apps to support 5 business units and over 40 end users, including AVC, CFO, directors, and managers. Designed, developed, and implemented end-to-end data analytics solutions, including data mining, data modeling, data analysis, and data reporting. Enhanced data pipelines, optimized SQL queries, generated actionable insights, and provided strategic recommendations to the executive team, resulting 15-25% improved process efficiency and 120 hours and thousands of dollars saved monthly across operations, finance, project costing, project management, logistics, and inventory management.
+* **Business Intelligence:** Revolutionized and transformed the department's reporting process with robust and scalable self-service Power BI reports. Designed, developed, and implemented end-to-end data analytics solutions, including data mining, data modeling, data analysis, and data reporting. Enhanced data pipelines, optimized SQL queries, generated actionable insights, and provided strategic recommendations, resulting 25% improved process efficiency and 120 hours and thousands of dollars saved monthly across finance, HR, logistics, project management, and strategic planning. Created and owned 20+ workspaces and apps to support 5 business units and over 40 end users, including AVC, CFO, directors, and managers.
 * **Data Visualization:** Developed storytelling reports and dashboards with complex DAX, Power Query, drill-through, role-level security, and paginated report, delivering elegant, intuitive, and interactive visualizations and receiving widespread recognition in the department.
+* **Financial Analytics:** Created and implemented advanced Power BI financial dashboards and reports encompassing YOY analysis, key variance analysis, revenues & expenditures statements, KPIs, actual vs. budget analysis, forecasting models, and root cause investigations. These comprehensive tools delivered significant visibility and actionable insights, empowering the CFO and directors in data-driven decision-making.
+* **Logistics Analytics (Six Sigma Green Belt Project):** Currently spearheading the development of a robust BI solution aimed at enhancing visibility and optimizing requisition and purchase order (PO) deliverables. The primary objective is to minimize one-time purchase (OTP) instances by 15%, optimize stockroom space management by 10%, and decrease total PO expenditure by 5%.
 * **Process Excellence:** Adopted Lean and Agile methodologies in BI development to improve quality, minimize maintenance, and increase scalability.
 * **Maintenance and Support:** Troubleshot end-user issues, established effective countermeasures, and provided timely resolutions within 48 hours.
 * **Governance & Standard:** Established report development standards and data governance best practices for data analytics within the department.
@@ -56,7 +59,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 **Programmer Analyst** <br>
 [Nortridge Software](https://www.nortridge.com/) _(Jul 2017 - Jul 2019)_ 
-* **Service Analytics:** Led a strategic initiative to enhance customer support services and products by understanding customer behaviors and remodeling service pricing structure, projecting an 8% boost in customer retention rate, a 15% reduction in service costs, and a 6% increase in ROI.
+* **Service Analytics:** Led a strategic initiative to improve customer support system through extensive customer behavior analysis and the development of a service pricing model, projecting an 8% increase in customer retention rate and a 15% decrease in service costs.
 * **System Integration:** Gathered business requirements, oversaw the data transfer ETL process, and integrated a 3rd-party customer support system that enabled the team to serve 18% more customers, reduced the average support ticket time by 13%, and increased customer satisfaction by 15%.
 * **Consulting Service:** Built and embedded customized features and functionalities in the loan software using SQL and VBScript for business clients. 
 * **Training & Knowledge Transfer:** Created self-help materials in the knowledge base center for business clients and internal employee training.
@@ -64,7 +67,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 
 **Business & Technology Analyst, Data Analytics** <br>
 [AXOS Bank](https://www.axosbank.com/) _(Sep 2016 - Jul 2017)_
-* **Product Analytics:** Created KPIs, KRIs, key metrics (CAC, LTV, AAR, etc.), and scorecards to recommend the most reliable broker partners to work with and reduce default risk for the TPO team, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
+* **Product Analytics:** Created KPIs, KRIs, key metrics (CAC, LTV, AAR, etc.), and scorecards using SQL and Tableau to recommend the most reliable brokers to partner with and minimize default risk, resulting in a 30% reduction in lead duration and an 18% increase in conversion rate.
 * **Sales & Commission Analytics:** Designed, developed, and implemented automation dashboards to populate real-time sales and generated commission data, replacing manual spreadsheet calculation and reporting and saving 20 hours per month.
 * **Financial Analytics:** Developed P&L models, led profitability analysis, and automated financial reports for 12 lending units for senior leadership.
 * **Budget Modeling:** Created budget models that factored historical data from the past 5 years, striving for <10% variance between actual and budget.
