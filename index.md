@@ -5,8 +5,7 @@
 
 **Business Intelligence Developer** <br>
 **Certified Data Science Associate** <br>
-**Certified Six Sigma Yellow Belt 📒** <br>
-**Current Six Sigma Green Belt 📗 Participant** <br>
+**Certified Lean Six Sigma Green Belt 📗** <br>
 **Master of Science, Information Systems/Business Analytics** <br>
 **Bachelor of Science, Management Science/Economics**, Minor in **Math** <br>
 
@@ -50,7 +49,7 @@ I'm a Business Intelligence Developer and a data fanatic with 6+ years of experi
 * **Business Intelligence:** Revolutionized and transformed the department's reporting process with robust and scalable self-service Power BI reports. Designed, developed, and implemented end-to-end data analytics solutions, including data mining, data modeling, data analysis, and data reporting. Enhanced data pipelines, optimized SQL queries, generated actionable insights, and provided strategic recommendations, resulting 25% improved process efficiency and 120 hours and thousands of dollars saved monthly across finance, HR, logistics, project management, and strategic planning. Created and owned 20+ workspaces and apps to support 5 business units and over 40 end users, including AVC, CFO, directors, and managers.
 * **Data Visualization:** Developed storytelling reports and dashboards with complex DAX, Power Query, drill-through, role-level security, and paginated report, delivering elegant, intuitive, and interactive visualizations and receiving widespread recognition in the department.
 * **Financial Analytics:** Created and implemented advanced Power BI financial dashboards and reports encompassing YOY analysis, key variance analysis, revenues & expenditures statements, KPIs, actual vs. budget analysis, forecasting models, and root cause investigations. These comprehensive tools delivered significant visibility and actionable insights, empowering the CFO and directors in data-driven decision-making.
-* **Logistics Analytics (Six Sigma Green Belt Project):** Currently spearheading the development of a robust BI solution aimed at enhancing visibility and optimizing requisition and purchase order (PO) deliverables. The primary objective is to minimize one-time purchase (OTP) instances by 15%, optimize stockroom space management by 10%, and decrease total PO expenditure by 5%.
+* **Logistics Analytics (Lean Six Sigma Green Belt Project):** Currently spearheading the development of a robust BI solution aimed at enhancing visibility and optimizing requisition and purchase order (PO) deliverables. The primary objective is to minimize one-time purchase (OTP) instances by 15%, optimize stockroom space management by 10%, and decrease total PO expenditure by 5%.
 * **Process Excellence:** Adopted Lean and Agile methodologies in BI development to improve quality, minimize maintenance, and increase scalability.
 * **Maintenance and Support:** Troubleshot end-user issues, established effective countermeasures, and provided timely resolutions within 48 hours.
 * **Governance & Standard:** Established report development standards and data governance best practices for data analytics within the department.
